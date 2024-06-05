@@ -42,6 +42,6 @@ mostrar_secuencia(secuencia)
 archivo = open("logica/tp3_secuencia/secuencia.txt", "a")
 archivo.write("\n")
 for valor in secuencia:
-    archivo.write(str(valor))
-archivo.write("\n")
+    archivo.write(str(valor) + "-")
+    clearConsole
 archivo.close()
