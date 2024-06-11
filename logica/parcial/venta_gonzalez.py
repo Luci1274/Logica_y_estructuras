@@ -1,6 +1,6 @@
 def crear_pagina():
     try:
-        archivo = open("logica/pacial/ticket.txt", "x")
+        archivo = open("ticket.txt", "x")
         archivo.close
     except:
         pass
@@ -61,16 +61,16 @@ def precio_por_unidad():
 print("Bienvenido al super ")
 crear_archivo_de_texto = crear_pagina
 ingresar = registrar()
-descripcion = nombre()
-cantidad = cantidad_de_productos()
-precio_unitario = precio_por_unidad()
-Subtotal = cantidad * precio_unitario
+escribir_archivo = open("ticket.txt", "a")
+escribir_archivo.write("\n" + "Ida al supper" + "\n")
+for datos in range(ingresar):
+    descripcion = nombre()
+    escribir_archivo.write(str({"descripcion":descripcion}) + "\n")
+    cantidad = cantidad_de_productos()
+    escribir_archivo.write(str({"cantidad": cantidad}) + "\n")
+    precio_unitario = precio_por_unidad()
+    escribir_archivo.write(str({"precio unitario": precio_unitario}) + "\n")
+    Subtotal = cantidad * precio_unitario
+    escribir_archivo.write(str({"subtotal": Subtotal}) + "\n")
 print(Subtotal)
-todo = {"descripcion": descripcion  , "cantidad": cantidad, "precio_unitario": precio_unitario,"Subtotal": Subtotal}
-try:
-    archivo = open("logica/pacial/ticket.txt", "a")
-    for mostrar in todo:
-        archivo.write("Ida al supper" + str(todo))
-    archivo.close()
-except:
-    print("error desconocido")
+escribir_archivo.close()
