@@ -1,0 +1,10 @@
+
+Ida al supper
+{'descripcion': 'PAN'}
+{'cantidad': 150}
+{'precio unitario': 1500.0}
+{'subtotal': 225000.0}
+{'descripcion': 'SALCHICHAS'}
+{'cantidad': 10}
+{'precio unitario': 150.0}
+{'subtotal': 1500.0}

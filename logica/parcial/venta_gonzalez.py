@@ -1,12 +1,14 @@
 def crear_pagina():
+    """crea un archivo llamado ticket y lo cierra"""
     try:
-        archivo = open("ticket.txt", "x")
+        archivo = open("logica/parcial/ticket.txt", "x")
         archivo.close
     except:
         pass
 
 
 def registrar():
+    """introduce la cantidad de productos a registrar e identifica si es mayor a 0 y menor a 5"""
     while True:
         cantidad_de_productos = input("ingrese la cantidad de productos de arregistrar de 1 a 5: ")
         try:
@@ -18,6 +20,7 @@ def registrar():
             print('Por favor ingrese una cantidad valida')
 
 def nombre():
+    """sirve para ingresar y verificar la descripcion de los productos"""
     while True:
         descripcion = input("ingrese una descripcion: ").upper()
         if descripcion:
@@ -27,6 +30,7 @@ def nombre():
             print("por favor ingrese una descripcion")
 
 def cantidad_de_productos():
+    """ingresar cantidad de productos y verifica que no esten vacios ni que sean 0 """
     while True:
         cantidad = input("ingrese la cantidad: ")
         try:
@@ -42,6 +46,7 @@ def cantidad_de_productos():
 
             
 def precio_por_unidad():
+    """sirve para ingresar el precio individial de los productos y verifica que sean decimales"""
     while True:
         try: 
             precio_unitario = input("ingrese el precio por unidad: ")
@@ -61,7 +66,7 @@ def precio_por_unidad():
 print("Bienvenido al super ")
 crear_archivo_de_texto = crear_pagina
 ingresar = registrar()
-escribir_archivo = open("ticket.txt", "a")
+escribir_archivo = open("logica/parcial/ticket.txt", "a")
 escribir_archivo.write("\n" + "Ida al supper" + "\n")
 for datos in range(ingresar):
     descripcion = nombre()
