@@ -8,3 +8,9 @@ Ida al supper
 {'cantidad': 10}
 {'precio unitario': 150.0}
 {'subtotal': 1500.0}
+
+Ida al supper
+{'descripcion': 'PAN'}
+{'cantidad': 2}
+{'precio unitario': 15.0}
+{'subtotal': 30.0}

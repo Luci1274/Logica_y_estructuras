@@ -1,0 +1,29 @@
+def validar_cuit(cuit):
+    '''Valida que el dato ingresado tenga el formato de 11 digitos'''
+    if len(cuit) == 11:
+        base = (5, 4, 3, 2, 7, 6, 5, 4, 3, 2)
+        digito_verificador = 0
+        for i in range(10):
+            digito_verificador += int(cuit[i]) * base[i]
+        digito_verificador = 11 - (digito_verificador - (int(digito_verificador / 11) * 11))
+        if digito_verificador == 11:
+            digito_verificador = 0
+        elif digito_verificador == 10:
+            digito_verificador = 9
+        return digito_verificador == int(cuit[10]), digito_verificador, True
+    else:
+        return False, 0, False
+    
+while True:
+    cuit_ingresado = input('Ingrese CUIT (ejemplo 20123456789) o <Enter> para salir: ').strip()
+    if not cuit_ingresado:
+        break
+    cuit_valido, digito_obtenido, largo_correcto = validar_cuit(cuit_ingresado)
+    if largo_correcto == True and cuit_valido == True:
+        cuit_formateado = cuit_ingresado[:2] + "-" + cuit_ingresado[2:10] + "-" +  cuit_ingresado[10]
+        print('El CUIT', cuit_formateado, 'está OK.')
+    elif largo_correcto == True and cuit_valido == False:
+        cuit_formateado = cuit_ingresado[:2] + "-" + cuit_ingresado[2:10] + "-" +  cuit_ingresado[10]
+        print('CUIT', cuit_formateado, 'es incorrecto. El dígito verificador debería ser', digito_obtenido)
+    elif largo_correcto == False:
+        print('El largo del CUIT ingresado NO es correcto.')

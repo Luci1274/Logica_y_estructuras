@@ -6,7 +6,6 @@ def crear_pagina():
     except:
         pass
 
-
 def registrar():
     """introduce la cantidad de productos a registrar e identifica si es mayor a 0 y menor a 5"""
     while True:
