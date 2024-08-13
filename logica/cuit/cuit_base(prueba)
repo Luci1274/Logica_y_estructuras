@@ -1,34 +1,20 @@
 def validar_prefijo (cuit_prefijo):
     """Valida el prefijo ingresado"""
     prefijo = cuit_prefijo
-    if prefijo[0] == "2" and prefijo[1] == "0":
-        prefijo == "20"
-        prefijo == True
-        return True
-    elif prefijo[0] == "2" and prefijo[1] == "3":
-        prefijo == "23"
-        prefijo == True
-        return True
-    elif prefijo[0] == "2" and prefijo[1] == "4":
-        prefijo == "24"
-        prefijo == True
-        return True
-    elif prefijo[0] == "2" and prefijo[1] == "7":
-        prefijo == "27"
-        prefijo == True
-        return True
-    elif prefijo[0] == "3" and prefijo[1] == "0":
-        prefijo == "30"
-        prefijo == True
-        return True
-    elif prefijo[0] == "3" and prefijo[1] == "3":
-        prefijo == "33"
-        prefijo == True
-        return True
-    elif prefijo[0] == "3" and prefijo[1] == "4":
-        prefijo == "34"
-        prefijo == True
-        return True
+    if prefijo[:2] == "20":
+        return print("\n" "Pertenece a una persona fisica")
+    elif prefijo[:2] == "23":
+        return print("\n""Pertenece a una persona fisica")
+    elif prefijo[:2] == "24":
+        return print("\n""Pertenece a una persona fisica")
+    elif prefijo[:2] == "27":
+        return print("\n""Pertenece a una persona fisica")
+    elif prefijo[:2] == "30":
+        return print("\n""Pertenece a una persona juridica")
+    elif prefijo[:2] == "33":
+        return print("\n""Pertenece a una persona juridica")
+    elif prefijo[:2] == "34":
+        return print("\n""Pertenece a una persona juridica")
     else:
         return False
 
@@ -54,20 +40,20 @@ while True:
         cuit_ingresado = input('Ingrese CUIT (ejemplo 20123456789) o <Enter> para salir: ').strip()
         if not cuit_ingresado:
             break
-        cuit_prefijo = validar_prefijo(cuit_ingresado)
-        if cuit_prefijo == True:
+        if validar_prefijo(cuit_ingresado) == False:
+            print("por favor introduzca un prefijo valido""\n"
+                  "Pueden ser 20-23-24-25-27 para personas fisicas y 30-33-34 para personas juridicas""\n")
+        else:
             cuit_valido, digito_obtenido, largo_correcto = validar_cuit(cuit_ingresado)
             if largo_correcto == True and cuit_valido == True:
                 cuit_formateado = cuit_ingresado[:2] + "-" + cuit_ingresado[2:10] + "-" +  cuit_ingresado[10]
-                print('El CUIT', cuit_formateado, 'está OK.')
+                print('El CUIT', cuit_formateado, 'está OK.'"\n")
                 break
             elif largo_correcto == True and cuit_valido == False:
                 cuit_formateado = cuit_ingresado[:2] + "-" + cuit_ingresado[2:10] + "-" +  cuit_ingresado[10]
-                print('CUIT', cuit_formateado, 'es incorrecto. El dígito verificador debería ser', digito_obtenido)
+                print('CUIT', cuit_formateado, 'es incorrecto. El dígito verificador debería ser', digito_obtenido, "\n")
             elif largo_correcto == False:
-                print('El largo del CUIT ingresado NO es correcto.')
-        else: 
-            print("por favor introduzca un prefijo valido")
+                print('El largo del CUIT ingresado NO es correcto.'"\n") 
     except:
-        pass
+        print("por favor ingrese un cuit")
         
