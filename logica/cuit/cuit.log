@@ -1,0 +1,21 @@
+
+20460396264,20-46039626-4Cuit OK,20,<built-in method now of type object at 0xa32f60>
+20460396264,20-46039626-4Cuit OK,20,<class 'datetime.datetime'>
+20460396264,20-46039626-4Cuit OK,20,2024-08-15 20:43:18.822427
+27463004426,27-46300442-6Cuit OK,27,2024-08-15 20:44:55.557912
+12345,Largo de CUIT incorrecto,
+ads,Solo se aceptan dígitos numéricos,
+20123456789,20-12345678-9Dígito verificador incorrecto
+1234, Largo de CUIT incorrecto, 
+sadf, Solo se aceptan dígitos numéricos, 
+273004426, Largo de CUIT incorrecto, 
+20460396264, 20-46039626-4Cuit OK, 20, 2024-08-15 21:08:28.025268
+1, 
+20456383557, 20-45638355-7, Cuit OK, 
+20460396264, 20-46039626-4, Cuit OK, 
+20460396264, 20-46039626-4, Cuit OK, 20, 2024-08-19 18:26:14.325593
+123, Largo de CUIT incorrecto, 
+sdf, Solo se aceptan dígitos numéricos, 
+1111111111111111111111, Largo de CUIT incorrecto, 
+00000000000, 
+27463004426, 27-46300442-6, Cuit OK, 27, 2024-08-19 18:27:13.570576
