@@ -1,0 +1,1945 @@
+﻿pais_id,pais,año,mes,ccp_origen,producto_origen,ccp_destino,producto_destino,uni_med_id,uni_med,cantidad_por_millon
+32,Argentina,2008,1,2211,Leche cruda,2211,Leche informal,l,Litros,66.57
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.66
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.27
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.99
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,34.11
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.84
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.12
+32,Argentina,2008,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.67
+32,Argentina,2008,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,114.23
+32,Argentina,2008,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,24.51
+32,Argentina,2008,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,81.13
+32,Argentina,2008,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,161.52
+32,Argentina,2008,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,116.38
+32,Argentina,2008,1,2211,Leche cruda,22241,Manteca,l,Litros,87.48
+32,Argentina,2008,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,14.4
+32,Argentina,2008,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.68
+32,Argentina,2008,1,2211,Leche cruda,22230,Yogur ,l,Litros,45.22
+32,Argentina,2008,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.41
+32,Argentina,2008,2,2211,Leche cruda,2211,Leche informal,l,Litros,59.24
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.01
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.21
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.03
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,23.44
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,9.31
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.26
+32,Argentina,2008,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.17
+32,Argentina,2008,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,94.12
+32,Argentina,2008,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,18.2
+32,Argentina,2008,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,72.81
+32,Argentina,2008,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,119.03
+32,Argentina,2008,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,121.56
+32,Argentina,2008,2,2211,Leche cruda,22241,Manteca,l,Litros,76.33
+32,Argentina,2008,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.11
+32,Argentina,2008,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2008,2,2211,Leche cruda,22230,Yogur ,l,Litros,38.91
+32,Argentina,2008,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.58
+32,Argentina,2008,3,2211,Leche cruda,2211,Leche informal,l,Litros,58.49
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,71.23
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.18
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.86
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,21.64
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,10.89
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.2
+32,Argentina,2008,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.81
+32,Argentina,2008,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,92.53
+32,Argentina,2008,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,15.68
+32,Argentina,2008,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,77.21
+32,Argentina,2008,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,129.53
+32,Argentina,2008,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,119.89
+32,Argentina,2008,3,2211,Leche cruda,22241,Manteca,l,Litros,56.26
+32,Argentina,2008,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.51
+32,Argentina,2008,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.22
+32,Argentina,2008,3,2211,Leche cruda,22230,Yogur ,l,Litros,30.54
+32,Argentina,2008,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.23
+32,Argentina,2008,4,2211,Leche cruda,2211,Leche informal,l,Litros,67.58
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.64
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.01
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.04
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,29.92
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.39
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.99
+32,Argentina,2008,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.46
+32,Argentina,2008,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,76.02
+32,Argentina,2008,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,10.22
+32,Argentina,2008,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,48.34
+32,Argentina,2008,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,109.06
+32,Argentina,2008,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,124.88
+32,Argentina,2008,4,2211,Leche cruda,22241,Manteca,l,Litros,49.75
+32,Argentina,2008,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.2
+32,Argentina,2008,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.2
+32,Argentina,2008,4,2211,Leche cruda,22230,Yogur ,l,Litros,37.11
+32,Argentina,2008,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.97
+32,Argentina,2008,5,2211,Leche cruda,2211,Leche informal,l,Litros,71.91
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,77.11
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.26
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.08
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.81
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.1
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.14
+32,Argentina,2008,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,14.78
+32,Argentina,2008,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,82.34
+32,Argentina,2008,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,13.36
+32,Argentina,2008,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,74.87
+32,Argentina,2008,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,128.65
+32,Argentina,2008,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,147.73
+32,Argentina,2008,5,2211,Leche cruda,22241,Manteca,l,Litros,20.93
+32,Argentina,2008,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.57
+32,Argentina,2008,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.22
+32,Argentina,2008,5,2211,Leche cruda,22230,Yogur ,l,Litros,29.53
+32,Argentina,2008,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.61
+32,Argentina,2008,6,2211,Leche cruda,2211,Leche informal,l,Litros,59.44
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.62
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.29
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.17
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.55
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,10.18
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.49
+32,Argentina,2008,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,1.71
+32,Argentina,2008,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,98.13
+32,Argentina,2008,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,8.9
+32,Argentina,2008,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,84.67
+32,Argentina,2008,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,130.64
+32,Argentina,2008,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,131.11
+32,Argentina,2008,6,2211,Leche cruda,22241,Manteca,l,Litros,19.04
+32,Argentina,2008,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.34
+32,Argentina,2008,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.07
+32,Argentina,2008,6,2211,Leche cruda,22230,Yogur ,l,Litros,23.16
+32,Argentina,2008,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.69
+32,Argentina,2008,7,2211,Leche cruda,2211,Leche informal,l,Litros,63.96
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.76
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.61
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.03
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.6
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.85
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.84
+32,Argentina,2008,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.99
+32,Argentina,2008,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,103.28
+32,Argentina,2008,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,29.91
+32,Argentina,2008,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,82.61
+32,Argentina,2008,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,114.07
+32,Argentina,2008,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,138.61
+32,Argentina,2008,7,2211,Leche cruda,22241,Manteca,l,Litros,46.68
+32,Argentina,2008,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.18
+32,Argentina,2008,7,2211,Leche cruda,22222,Leche condensada,l,Litros,1.35
+32,Argentina,2008,7,2211,Leche cruda,22230,Yogur ,l,Litros,33.83
+32,Argentina,2008,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.38
+32,Argentina,2008,8,2211,Leche cruda,2211,Leche informal,l,Litros,63.04
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.72
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.58
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.95
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.56
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,10.89
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.47
+32,Argentina,2008,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.83
+32,Argentina,2008,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,148.88
+32,Argentina,2008,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,35.33
+32,Argentina,2008,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,88.91
+32,Argentina,2008,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,133.82
+32,Argentina,2008,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,127.62
+32,Argentina,2008,8,2211,Leche cruda,22241,Manteca,l,Litros,77.94
+32,Argentina,2008,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.03
+32,Argentina,2008,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1.19
+32,Argentina,2008,8,2211,Leche cruda,22230,Yogur ,l,Litros,30.23
+32,Argentina,2008,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.4
+32,Argentina,2008,9,2211,Leche cruda,2211,Leche informal,l,Litros,58.42
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.97
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.74
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.97
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,16.69
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,8.91
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.19
+32,Argentina,2008,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.82
+32,Argentina,2008,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,173.23
+32,Argentina,2008,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,29.54
+32,Argentina,2008,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,88.69
+32,Argentina,2008,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,139.72
+32,Argentina,2008,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,136.21
+32,Argentina,2008,9,2211,Leche cruda,22241,Manteca,l,Litros,75.02
+32,Argentina,2008,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.42
+32,Argentina,2008,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.29
+32,Argentina,2008,9,2211,Leche cruda,22230,Yogur ,l,Litros,35.16
+32,Argentina,2008,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.11
+32,Argentina,2008,10,2211,Leche cruda,2211,Leche informal,l,Litros,61.79
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.89
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.6
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.02
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,21.93
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,10.89
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.46
+32,Argentina,2008,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.64
+32,Argentina,2008,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,186.09
+32,Argentina,2008,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,46.54
+32,Argentina,2008,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,105.27
+32,Argentina,2008,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,150.32
+32,Argentina,2008,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,132.28
+32,Argentina,2008,10,2211,Leche cruda,22241,Manteca,l,Litros,90.4
+32,Argentina,2008,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.04
+32,Argentina,2008,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.26
+32,Argentina,2008,10,2211,Leche cruda,22230,Yogur ,l,Litros,38.16
+32,Argentina,2008,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.31
+32,Argentina,2008,11,2211,Leche cruda,2211,Leche informal,l,Litros,59.04
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.04
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.97
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.03
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,16.69
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.2
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.18
+32,Argentina,2008,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.83
+32,Argentina,2008,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,178.36
+32,Argentina,2008,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,40.21
+32,Argentina,2008,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,97.21
+32,Argentina,2008,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,143.65
+32,Argentina,2008,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,124.37
+32,Argentina,2008,11,2211,Leche cruda,22241,Manteca,l,Litros,88.8
+32,Argentina,2008,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,13.75
+32,Argentina,2008,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.04
+32,Argentina,2008,11,2211,Leche cruda,22230,Yogur ,l,Litros,42.34
+32,Argentina,2008,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.86
+32,Argentina,2008,12,2211,Leche cruda,2211,Leche informal,l,Litros,57.32
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,77.47
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.05
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.99
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,16.68
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,11.02
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,0.87
+32,Argentina,2008,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.9
+32,Argentina,2008,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,163.73
+32,Argentina,2008,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,37.09
+32,Argentina,2008,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,86.68
+32,Argentina,2008,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,138.46
+32,Argentina,2008,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,152.15
+32,Argentina,2008,12,2211,Leche cruda,22241,Manteca,l,Litros,81.6
+32,Argentina,2008,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.03
+32,Argentina,2008,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.51
+32,Argentina,2008,12,2211,Leche cruda,22230,Yogur ,l,Litros,39.55
+32,Argentina,2008,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.68
+32,Argentina,2009,1,2211,Leche cruda,2211,Leche informal,l,Litros,60.33
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.95
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,26.36
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.37
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.15
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.22
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.13
+32,Argentina,2009,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.52
+32,Argentina,2009,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,171.53
+32,Argentina,2009,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,39.33
+32,Argentina,2009,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,62.76
+32,Argentina,2009,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,149.07
+32,Argentina,2009,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,123.16
+32,Argentina,2009,1,2211,Leche cruda,22241,Manteca,l,Litros,87.78
+32,Argentina,2009,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,13.14
+32,Argentina,2009,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.61
+32,Argentina,2009,1,2211,Leche cruda,22230,Yogur ,l,Litros,42.7
+32,Argentina,2009,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.21
+32,Argentina,2009,2,2211,Leche cruda,2211,Leche informal,l,Litros,55.02
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,68.56
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,24.5
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.44
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,19.93
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,11.63
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.67
+32,Argentina,2009,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,1.24
+32,Argentina,2009,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,97.87
+32,Argentina,2009,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,31.06
+32,Argentina,2009,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,30.92
+32,Argentina,2009,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,144.29
+32,Argentina,2009,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,127.95
+32,Argentina,2009,2,2211,Leche cruda,22241,Manteca,l,Litros,68.61
+32,Argentina,2009,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.32
+32,Argentina,2009,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.04
+32,Argentina,2009,2,2211,Leche cruda,22230,Yogur ,l,Litros,35.92
+32,Argentina,2009,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.1
+32,Argentina,2009,3,2211,Leche cruda,2211,Leche informal,l,Litros,62.82
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,82.13
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.61
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.75
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.57
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,11.41
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.19
+32,Argentina,2009,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.58
+32,Argentina,2009,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,87.78
+32,Argentina,2009,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,29.07
+32,Argentina,2009,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,37.3
+32,Argentina,2009,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,163.58
+32,Argentina,2009,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,138.33
+32,Argentina,2009,3,2211,Leche cruda,22241,Manteca,l,Litros,58.61
+32,Argentina,2009,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.32
+32,Argentina,2009,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.15
+32,Argentina,2009,3,2211,Leche cruda,22230,Yogur ,l,Litros,37.76
+32,Argentina,2009,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.87
+32,Argentina,2009,4,2211,Leche cruda,2211,Leche informal,l,Litros,65.12
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,70.88
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,27.09
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.47
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.85
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.86
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.35
+32,Argentina,2009,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.49
+32,Argentina,2009,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,90.79
+32,Argentina,2009,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,18.64
+32,Argentina,2009,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,36.29
+32,Argentina,2009,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,134.7
+32,Argentina,2009,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,140.27
+32,Argentina,2009,4,2211,Leche cruda,22241,Manteca,l,Litros,46.59
+32,Argentina,2009,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.55
+32,Argentina,2009,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.1
+32,Argentina,2009,4,2211,Leche cruda,22230,Yogur ,l,Litros,33.54
+32,Argentina,2009,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.62
+32,Argentina,2009,5,2211,Leche cruda,2211,Leche informal,l,Litros,68.07
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,71.93
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.32
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.45
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.55
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.09
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.25
+32,Argentina,2009,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,13.05
+32,Argentina,2009,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,102.55
+32,Argentina,2009,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,26.98
+32,Argentina,2009,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,42.66
+32,Argentina,2009,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,150.52
+32,Argentina,2009,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,143.36
+32,Argentina,2009,5,2211,Leche cruda,22241,Manteca,l,Litros,31.33
+32,Argentina,2009,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.24
+32,Argentina,2009,5,2211,Leche cruda,22222,Leche condensada,l,Litros,0.71
+32,Argentina,2009,5,2211,Leche cruda,22230,Yogur ,l,Litros,26.69
+32,Argentina,2009,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.54
+32,Argentina,2009,6,2211,Leche cruda,2211,Leche informal,l,Litros,66.66
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.95
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.3
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.5
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.83
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.94
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.6
+32,Argentina,2009,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,2.56
+32,Argentina,2009,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,94.21
+32,Argentina,2009,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,22.7
+32,Argentina,2009,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,43.15
+32,Argentina,2009,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,151.73
+32,Argentina,2009,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,146.42
+32,Argentina,2009,6,2211,Leche cruda,22241,Manteca,l,Litros,24
+32,Argentina,2009,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.22
+32,Argentina,2009,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.07
+32,Argentina,2009,6,2211,Leche cruda,22230,Yogur ,l,Litros,23.85
+32,Argentina,2009,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.58
+32,Argentina,2009,7,2211,Leche cruda,2211,Leche informal,l,Litros,60.85
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.91
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.6
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.5
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,21.89
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.44
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.7
+32,Argentina,2009,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,3.3
+32,Argentina,2009,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,104.05
+32,Argentina,2009,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,20.1
+32,Argentina,2009,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,43.8
+32,Argentina,2009,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,165.6
+32,Argentina,2009,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,145.75
+32,Argentina,2009,7,2211,Leche cruda,22241,Manteca,l,Litros,45.24
+32,Argentina,2009,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.51
+32,Argentina,2009,7,2211,Leche cruda,22222,Leche condensada,l,Litros,1.38
+32,Argentina,2009,7,2211,Leche cruda,22230,Yogur ,l,Litros,27.1
+32,Argentina,2009,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.05
+32,Argentina,2009,8,2211,Leche cruda,2211,Leche informal,l,Litros,63.22
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.13
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.54
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.52
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.84
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.58
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.93
+32,Argentina,2009,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.91
+32,Argentina,2009,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,105.42
+32,Argentina,2009,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,30.96
+32,Argentina,2009,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,45.65
+32,Argentina,2009,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,154.6
+32,Argentina,2009,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,145.15
+32,Argentina,2009,8,2211,Leche cruda,22241,Manteca,l,Litros,81.8
+32,Argentina,2009,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.77
+32,Argentina,2009,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1.35
+32,Argentina,2009,8,2211,Leche cruda,22230,Yogur ,l,Litros,29.5
+32,Argentina,2009,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.13
+32,Argentina,2009,9,2211,Leche cruda,2211,Leche informal,l,Litros,60.63
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.29
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.84
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.5
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.3
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.93
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.71
+32,Argentina,2009,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.9
+32,Argentina,2009,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,122.18
+32,Argentina,2009,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,44.83
+32,Argentina,2009,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,60.54
+32,Argentina,2009,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,158.26
+32,Argentina,2009,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,137.52
+32,Argentina,2009,9,2211,Leche cruda,22241,Manteca,l,Litros,88.36
+32,Argentina,2009,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.58
+32,Argentina,2009,9,2211,Leche cruda,22222,Leche condensada,l,Litros,0.96
+32,Argentina,2009,9,2211,Leche cruda,22230,Yogur ,l,Litros,35.76
+32,Argentina,2009,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.05
+32,Argentina,2009,10,2211,Leche cruda,2211,Leche informal,l,Litros,63.83
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.32
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.91
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.52
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.75
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.7
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.12
+32,Argentina,2009,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.07
+32,Argentina,2009,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,158.71
+32,Argentina,2009,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,48.65
+32,Argentina,2009,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,57.65
+32,Argentina,2009,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,174.34
+32,Argentina,2009,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,141.82
+32,Argentina,2009,10,2211,Leche cruda,22241,Manteca,l,Litros,97.33
+32,Argentina,2009,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.93
+32,Argentina,2009,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.23
+32,Argentina,2009,10,2211,Leche cruda,22230,Yogur ,l,Litros,34.73
+32,Argentina,2009,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.78
+32,Argentina,2009,11,2211,Leche cruda,2211,Leche informal,l,Litros,61.36
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.78
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,27.67
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.19
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.19
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.38
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.4
+32,Argentina,2009,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.21
+32,Argentina,2009,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,142.77
+32,Argentina,2009,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,52.1
+32,Argentina,2009,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,70.29
+32,Argentina,2009,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,159.57
+32,Argentina,2009,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.53
+32,Argentina,2009,11,2211,Leche cruda,22241,Manteca,l,Litros,101.18
+32,Argentina,2009,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.1
+32,Argentina,2009,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.18
+32,Argentina,2009,11,2211,Leche cruda,22230,Yogur ,l,Litros,40.19
+32,Argentina,2009,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.58
+32,Argentina,2009,12,2211,Leche cruda,2211,Leche informal,l,Litros,60.37
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.37
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,27.76
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.37
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.63
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.32
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.22
+32,Argentina,2009,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.14
+32,Argentina,2009,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,138.66
+32,Argentina,2009,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,49.09
+32,Argentina,2009,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,76.39
+32,Argentina,2009,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,179.1
+32,Argentina,2009,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,134.48
+32,Argentina,2009,12,2211,Leche cruda,22241,Manteca,l,Litros,105.95
+32,Argentina,2009,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.32
+32,Argentina,2009,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.82
+32,Argentina,2009,12,2211,Leche cruda,22230,Yogur ,l,Litros,38.29
+32,Argentina,2009,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.38
+32,Argentina,2010,1,2211,Leche cruda,2211,Leche informal,l,Litros,59.03
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,65.33
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,24.57
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.18
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,28.69
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.77
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.5
+32,Argentina,2010,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.49
+32,Argentina,2010,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,110.59
+32,Argentina,2010,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,29.43
+32,Argentina,2010,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,90.79
+32,Argentina,2010,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,162.57
+32,Argentina,2010,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,116.48
+32,Argentina,2010,1,2211,Leche cruda,22241,Manteca,l,Litros,71.91
+32,Argentina,2010,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,13.52
+32,Argentina,2010,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.79
+32,Argentina,2010,1,2211,Leche cruda,22230,Yogur ,l,Litros,40.46
+32,Argentina,2010,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.37
+32,Argentina,2010,2,2211,Leche cruda,2211,Leche informal,l,Litros,56.24
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.56
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,24.63
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.36
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,21.89
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.49
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.25
+32,Argentina,2010,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.46
+32,Argentina,2010,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,67.68
+32,Argentina,2010,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,20.11
+32,Argentina,2010,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,53.52
+32,Argentina,2010,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,138.45
+32,Argentina,2010,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,123.44
+32,Argentina,2010,2,2211,Leche cruda,22241,Manteca,l,Litros,49.2
+32,Argentina,2010,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.48
+32,Argentina,2010,2,2211,Leche cruda,22222,Leche condensada,l,Litros,0.91
+32,Argentina,2010,2,2211,Leche cruda,22230,Yogur ,l,Litros,38.41
+32,Argentina,2010,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.32
+32,Argentina,2010,3,2211,Leche cruda,2211,Leche informal,l,Litros,66.78
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,76.59
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.23
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.43
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.99
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.87
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.95
+32,Argentina,2010,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.44
+32,Argentina,2010,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,61.25
+32,Argentina,2010,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,16.27
+32,Argentina,2010,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,74.68
+32,Argentina,2010,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,146.31
+32,Argentina,2010,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,160.5
+32,Argentina,2010,3,2211,Leche cruda,22241,Manteca,l,Litros,11.61
+32,Argentina,2010,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.91
+32,Argentina,2010,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2010,3,2211,Leche cruda,22230,Yogur ,l,Litros,32.26
+32,Argentina,2010,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.24
+32,Argentina,2010,4,2211,Leche cruda,2211,Leche informal,l,Litros,65.83
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.35
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.32
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.66
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.91
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.13
+32,Argentina,2010,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,12.3
+32,Argentina,2010,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,74.79
+32,Argentina,2010,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,15.75
+32,Argentina,2010,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,65.88
+32,Argentina,2010,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,130.59
+32,Argentina,2010,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,141.72
+32,Argentina,2010,4,2211,Leche cruda,22241,Manteca,l,Litros,18.41
+32,Argentina,2010,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.71
+32,Argentina,2010,4,2211,Leche cruda,22222,Leche condensada,l,Litros,0.8
+32,Argentina,2010,4,2211,Leche cruda,22230,Yogur ,l,Litros,29.18
+32,Argentina,2010,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.37
+32,Argentina,2010,5,2211,Leche cruda,2211,Leche informal,l,Litros,72.24
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,70.76
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.68
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.43
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,35.76
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.97
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.99
+32,Argentina,2010,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,14.77
+32,Argentina,2010,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,96.32
+32,Argentina,2010,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,26.95
+32,Argentina,2010,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,80.21
+32,Argentina,2010,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,135.38
+32,Argentina,2010,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,146.18
+32,Argentina,2010,5,2211,Leche cruda,22241,Manteca,l,Litros,0.88
+32,Argentina,2010,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.52
+32,Argentina,2010,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.11
+32,Argentina,2010,5,2211,Leche cruda,22230,Yogur ,l,Litros,25.02
+32,Argentina,2010,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.25
+32,Argentina,2010,6,2211,Leche cruda,2211,Leche informal,l,Litros,67.55
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.03
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.01
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.47
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.09
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.24
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.13
+32,Argentina,2010,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,3.25
+32,Argentina,2010,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,112.16
+32,Argentina,2010,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,38.39
+32,Argentina,2010,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,91.76
+32,Argentina,2010,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,130.06
+32,Argentina,2010,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,141.99
+32,Argentina,2010,6,2211,Leche cruda,22241,Manteca,l,Litros,4.66
+32,Argentina,2010,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.12
+32,Argentina,2010,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.03
+32,Argentina,2010,6,2211,Leche cruda,22230,Yogur ,l,Litros,24.21
+32,Argentina,2010,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.21
+32,Argentina,2010,7,2211,Leche cruda,2211,Leche informal,l,Litros,59.62
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.58
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.49
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.31
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,21.9
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.68
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.31
+32,Argentina,2010,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,3.54
+32,Argentina,2010,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,127.47
+32,Argentina,2010,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,57.33
+32,Argentina,2010,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,77.81
+32,Argentina,2010,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,155.72
+32,Argentina,2010,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,138.54
+32,Argentina,2010,7,2211,Leche cruda,22241,Manteca,l,Litros,58.07
+32,Argentina,2010,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.03
+32,Argentina,2010,7,2211,Leche cruda,22222,Leche condensada,l,Litros,1.38
+32,Argentina,2010,7,2211,Leche cruda,22230,Yogur ,l,Litros,24.34
+32,Argentina,2010,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.15
+32,Argentina,2010,8,2211,Leche cruda,2211,Leche informal,l,Litros,63.18
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.03
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.05
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.45
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.86
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.21
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.53
+32,Argentina,2010,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.68
+32,Argentina,2010,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,158.06
+32,Argentina,2010,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,34.84
+32,Argentina,2010,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,73.15
+32,Argentina,2010,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,151.46
+32,Argentina,2010,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,136.83
+32,Argentina,2010,8,2211,Leche cruda,22241,Manteca,l,Litros,91.11
+32,Argentina,2010,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.2
+32,Argentina,2010,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1.5
+32,Argentina,2010,8,2211,Leche cruda,22230,Yogur ,l,Litros,25.63
+32,Argentina,2010,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.33
+32,Argentina,2010,9,2211,Leche cruda,2211,Leche informal,l,Litros,61.85
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.64
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.89
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.49
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,23.07
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.25
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.57
+32,Argentina,2010,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.14
+32,Argentina,2010,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,176.4
+32,Argentina,2010,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,44.04
+32,Argentina,2010,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.36
+32,Argentina,2010,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,152.87
+32,Argentina,2010,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,109.19
+32,Argentina,2010,9,2211,Leche cruda,22241,Manteca,l,Litros,102.31
+32,Argentina,2010,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.9
+32,Argentina,2010,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.3
+32,Argentina,2010,9,2211,Leche cruda,22230,Yogur ,l,Litros,35.15
+32,Argentina,2010,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.21
+32,Argentina,2010,10,2211,Leche cruda,2211,Leche informal,l,Litros,64.4
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,76.18
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.21
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.49
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.5
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.98
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.64
+32,Argentina,2010,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.25
+32,Argentina,2010,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,205.23
+32,Argentina,2010,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,51.77
+32,Argentina,2010,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,86.07
+32,Argentina,2010,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,161.71
+32,Argentina,2010,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.66
+32,Argentina,2010,10,2211,Leche cruda,22241,Manteca,l,Litros,105.46
+32,Argentina,2010,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.7
+32,Argentina,2010,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.27
+32,Argentina,2010,10,2211,Leche cruda,22230,Yogur ,l,Litros,33.18
+32,Argentina,2010,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.85
+32,Argentina,2010,11,2211,Leche cruda,2211,Leche informal,l,Litros,65.76
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.03
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.29
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.45
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.49
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.39
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.4
+32,Argentina,2010,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.05
+32,Argentina,2010,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,169.27
+32,Argentina,2010,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,46.1
+32,Argentina,2010,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,77.95
+32,Argentina,2010,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,158.53
+32,Argentina,2010,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,135.91
+32,Argentina,2010,11,2211,Leche cruda,22241,Manteca,l,Litros,110.44
+32,Argentina,2010,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.45
+32,Argentina,2010,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.3
+32,Argentina,2010,11,2211,Leche cruda,22230,Yogur ,l,Litros,38.82
+32,Argentina,2010,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.74
+32,Argentina,2010,12,2211,Leche cruda,2211,Leche informal,l,Litros,63.41
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,74.18
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.09
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.42
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.14
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.5
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.7
+32,Argentina,2010,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.81
+32,Argentina,2010,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,161.06
+32,Argentina,2010,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,38.84
+32,Argentina,2010,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,82.38
+32,Argentina,2010,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,178.75
+32,Argentina,2010,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,138.49
+32,Argentina,2010,12,2211,Leche cruda,22241,Manteca,l,Litros,106.29
+32,Argentina,2010,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.38
+32,Argentina,2010,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.95
+32,Argentina,2010,12,2211,Leche cruda,22230,Yogur ,l,Litros,39.98
+32,Argentina,2010,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.4
+32,Argentina,2011,1,2211,Leche cruda,2211,Leche informal,l,Litros,59.78
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.26
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,26.07
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.42
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.5
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.15
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.05
+32,Argentina,2011,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.3
+32,Argentina,2011,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,137.61
+32,Argentina,2011,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,54.79
+32,Argentina,2011,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,69.06
+32,Argentina,2011,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,183.89
+32,Argentina,2011,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,124.15
+32,Argentina,2011,1,2211,Leche cruda,22241,Manteca,l,Litros,81.76
+32,Argentina,2011,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,13.81
+32,Argentina,2011,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.78
+32,Argentina,2011,1,2211,Leche cruda,22230,Yogur ,l,Litros,43.85
+32,Argentina,2011,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.51
+32,Argentina,2011,2,2211,Leche cruda,2211,Leche informal,l,Litros,58.38
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.94
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,26.15
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.37
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,23.41
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.18
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.32
+32,Argentina,2011,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.54
+32,Argentina,2011,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,116.08
+32,Argentina,2011,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,33.75
+32,Argentina,2011,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,53.25
+32,Argentina,2011,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,144.43
+32,Argentina,2011,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,124.76
+32,Argentina,2011,2,2211,Leche cruda,22241,Manteca,l,Litros,77.92
+32,Argentina,2011,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.15
+32,Argentina,2011,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.17
+32,Argentina,2011,2,2211,Leche cruda,22230,Yogur ,l,Litros,38.64
+32,Argentina,2011,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.46
+32,Argentina,2011,3,2211,Leche cruda,2211,Leche informal,l,Litros,68.83
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.54
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.57
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.38
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.68
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.89
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.65
+32,Argentina,2011,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,12.38
+32,Argentina,2011,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,112.03
+32,Argentina,2011,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,43.06
+32,Argentina,2011,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,45.56
+32,Argentina,2011,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,151.17
+32,Argentina,2011,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,141.52
+32,Argentina,2011,3,2211,Leche cruda,22241,Manteca,l,Litros,50.66
+32,Argentina,2011,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.37
+32,Argentina,2011,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2011,3,2211,Leche cruda,22230,Yogur ,l,Litros,40.27
+32,Argentina,2011,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.17
+32,Argentina,2011,4,2211,Leche cruda,2211,Leche informal,l,Litros,64.42
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.42
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.39
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.28
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,28.94
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.15
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.13
+32,Argentina,2011,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.49
+32,Argentina,2011,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,113.49
+32,Argentina,2011,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,34.59
+32,Argentina,2011,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,55.24
+32,Argentina,2011,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,146.3
+32,Argentina,2011,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.42
+32,Argentina,2011,4,2211,Leche cruda,22241,Manteca,l,Litros,47.86
+32,Argentina,2011,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.56
+32,Argentina,2011,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2011,4,2211,Leche cruda,22230,Yogur ,l,Litros,29.1
+32,Argentina,2011,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.69
+32,Argentina,2011,5,2211,Leche cruda,2211,Leche informal,l,Litros,72.38
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,71.67
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.16
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.34
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,34.35
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,20.45
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.28
+32,Argentina,2011,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,13.13
+32,Argentina,2011,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,139.22
+32,Argentina,2011,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,41.26
+32,Argentina,2011,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,69.26
+32,Argentina,2011,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,160.14
+32,Argentina,2011,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,144.21
+32,Argentina,2011,5,2211,Leche cruda,22241,Manteca,l,Litros,32.44
+32,Argentina,2011,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.45
+32,Argentina,2011,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2011,5,2211,Leche cruda,22230,Yogur ,l,Litros,26.45
+32,Argentina,2011,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.82
+32,Argentina,2011,6,2211,Leche cruda,2211,Leche informal,l,Litros,67.88
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.01
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.17
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.36
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,33.04
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.29
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.16
+32,Argentina,2011,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,3.58
+32,Argentina,2011,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,162.07
+32,Argentina,2011,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,33.08
+32,Argentina,2011,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.55
+32,Argentina,2011,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,160.27
+32,Argentina,2011,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,145.61
+32,Argentina,2011,6,2211,Leche cruda,22241,Manteca,l,Litros,21.05
+32,Argentina,2011,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.78
+32,Argentina,2011,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2011,6,2211,Leche cruda,22230,Yogur ,l,Litros,24.14
+32,Argentina,2011,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.92
+32,Argentina,2011,7,2211,Leche cruda,2211,Leche informal,l,Litros,59.66
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,71.5
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.75
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.23
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,23.1
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.47
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.61
+32,Argentina,2011,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6
+32,Argentina,2011,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,181.29
+32,Argentina,2011,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,41.25
+32,Argentina,2011,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,80.13
+32,Argentina,2011,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,158.86
+32,Argentina,2011,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,136.46
+32,Argentina,2011,7,2211,Leche cruda,22241,Manteca,l,Litros,57.45
+32,Argentina,2011,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.01
+32,Argentina,2011,7,2211,Leche cruda,22222,Leche condensada,l,Litros,0.7
+32,Argentina,2011,7,2211,Leche cruda,22230,Yogur ,l,Litros,23.6
+32,Argentina,2011,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.14
+32,Argentina,2011,8,2211,Leche cruda,2211,Leche informal,l,Litros,65.43
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.35
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.07
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.15
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.29
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.94
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.73
+32,Argentina,2011,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,10.28
+32,Argentina,2011,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,209.99
+32,Argentina,2011,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,42.73
+32,Argentina,2011,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,76.59
+32,Argentina,2011,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,162.66
+32,Argentina,2011,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,132.56
+32,Argentina,2011,8,2211,Leche cruda,22241,Manteca,l,Litros,81.78
+32,Argentina,2011,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.44
+32,Argentina,2011,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1
+32,Argentina,2011,8,2211,Leche cruda,22230,Yogur ,l,Litros,30.97
+32,Argentina,2011,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.86
+32,Argentina,2011,9,2211,Leche cruda,2211,Leche informal,l,Litros,61.68
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,67.83
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.77
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.24
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.11
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.39
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.13
+32,Argentina,2011,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,10.01
+32,Argentina,2011,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,223.97
+32,Argentina,2011,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,45.88
+32,Argentina,2011,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,72.93
+32,Argentina,2011,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,178.26
+32,Argentina,2011,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,143.69
+32,Argentina,2011,9,2211,Leche cruda,22241,Manteca,l,Litros,92.59
+32,Argentina,2011,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.3
+32,Argentina,2011,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2011,9,2211,Leche cruda,22230,Yogur ,l,Litros,34.94
+32,Argentina,2011,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.14
+32,Argentina,2011,10,2211,Leche cruda,2211,Leche informal,l,Litros,62.39
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,68.69
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.07
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.3
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.16
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.44
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.88
+32,Argentina,2011,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.15
+32,Argentina,2011,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,247.69
+32,Argentina,2011,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,36.4
+32,Argentina,2011,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,77.02
+32,Argentina,2011,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,184.02
+32,Argentina,2011,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,153.99
+32,Argentina,2011,10,2211,Leche cruda,22241,Manteca,l,Litros,96.17
+32,Argentina,2011,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.25
+32,Argentina,2011,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2011,10,2211,Leche cruda,22230,Yogur ,l,Litros,37.59
+32,Argentina,2011,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.1
+32,Argentina,2011,11,2211,Leche cruda,2211,Leche informal,l,Litros,62.91
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.43
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.46
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.59
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.14
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.33
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.06
+32,Argentina,2011,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,10.54
+32,Argentina,2011,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,221.08
+32,Argentina,2011,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,32
+32,Argentina,2011,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.77
+32,Argentina,2011,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,173.8
+32,Argentina,2011,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,140.7
+32,Argentina,2011,11,2211,Leche cruda,22241,Manteca,l,Litros,101.59
+32,Argentina,2011,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.7
+32,Argentina,2011,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2011,11,2211,Leche cruda,22230,Yogur ,l,Litros,39.52
+32,Argentina,2011,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.26
+32,Argentina,2011,12,2211,Leche cruda,2211,Leche informal,l,Litros,60.54
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,66.93
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.9
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.13
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.69
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.26
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.96
+32,Argentina,2011,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,11.17
+32,Argentina,2011,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,224.05
+32,Argentina,2011,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,43.65
+32,Argentina,2011,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.41
+32,Argentina,2011,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,179.83
+32,Argentina,2011,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,135.06
+32,Argentina,2011,12,2211,Leche cruda,22241,Manteca,l,Litros,91.88
+32,Argentina,2011,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.1
+32,Argentina,2011,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.59
+32,Argentina,2011,12,2211,Leche cruda,22230,Yogur ,l,Litros,40.72
+32,Argentina,2011,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.91
+32,Argentina,2012,1,2211,Leche cruda,2211,Leche informal,l,Litros,65.56
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,64.55
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,25.23
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.12
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,35.2
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,23.5
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.89
+32,Argentina,2012,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,12.7
+32,Argentina,2012,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,213.45
+32,Argentina,2012,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,35.3
+32,Argentina,2012,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,85.01
+32,Argentina,2012,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,181.73
+32,Argentina,2012,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,123.6
+32,Argentina,2012,1,2211,Leche cruda,22241,Manteca,l,Litros,82.42
+32,Argentina,2012,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,13.89
+32,Argentina,2012,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.62
+32,Argentina,2012,1,2211,Leche cruda,22230,Yogur ,l,Litros,44.62
+32,Argentina,2012,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.82
+32,Argentina,2012,2,2211,Leche cruda,2211,Leche informal,l,Litros,57.82
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,65.63
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,27.67
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.18
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,22.19
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.39
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.37
+32,Argentina,2012,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,11.13
+32,Argentina,2012,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,162.67
+32,Argentina,2012,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,26.59
+32,Argentina,2012,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.59
+32,Argentina,2012,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,140.69
+32,Argentina,2012,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,117.91
+32,Argentina,2012,2,2211,Leche cruda,22241,Manteca,l,Litros,74.12
+32,Argentina,2012,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.45
+32,Argentina,2012,2,2211,Leche cruda,22222,Leche condensada,l,Litros,0.83
+32,Argentina,2012,2,2211,Leche cruda,22230,Yogur ,l,Litros,39.71
+32,Argentina,2012,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.27
+32,Argentina,2012,3,2211,Leche cruda,2211,Leche informal,l,Litros,65.14
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,70.58
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.56
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.28
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.68
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.98
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.17
+32,Argentina,2012,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,15.37
+32,Argentina,2012,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,160.85
+32,Argentina,2012,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,20.1
+32,Argentina,2012,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,69.68
+32,Argentina,2012,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,167.32
+32,Argentina,2012,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,143.52
+32,Argentina,2012,3,2211,Leche cruda,22241,Manteca,l,Litros,37.76
+32,Argentina,2012,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,24.16
+32,Argentina,2012,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2012,3,2211,Leche cruda,22230,Yogur ,l,Litros,41.13
+32,Argentina,2012,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.11
+32,Argentina,2012,4,2211,Leche cruda,2211,Leche informal,l,Litros,63.77
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,65.12
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.4
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.28
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.48
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.34
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.23
+32,Argentina,2012,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,10.86
+32,Argentina,2012,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,155.54
+32,Argentina,2012,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,21.55
+32,Argentina,2012,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,68.63
+32,Argentina,2012,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,145.75
+32,Argentina,2012,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,131.59
+32,Argentina,2012,4,2211,Leche cruda,22241,Manteca,l,Litros,43.83
+32,Argentina,2012,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.51
+32,Argentina,2012,4,2211,Leche cruda,22222,Leche condensada,l,Litros,0.92
+32,Argentina,2012,4,2211,Leche cruda,22230,Yogur ,l,Litros,29.28
+32,Argentina,2012,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.02
+32,Argentina,2012,5,2211,Leche cruda,2211,Leche informal,l,Litros,74.54
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,71.93
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.95
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.4
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,34.93
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,21.01
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.8
+32,Argentina,2012,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,17.26
+32,Argentina,2012,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,152.59
+32,Argentina,2012,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,30.9
+32,Argentina,2012,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,79.46
+32,Argentina,2012,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,171.5
+32,Argentina,2012,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,159.72
+32,Argentina,2012,5,2211,Leche cruda,22241,Manteca,l,Litros,16.03
+32,Argentina,2012,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.88
+32,Argentina,2012,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.03
+32,Argentina,2012,5,2211,Leche cruda,22230,Yogur ,l,Litros,30.19
+32,Argentina,2012,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.38
+32,Argentina,2012,6,2211,Leche cruda,2211,Leche informal,l,Litros,71.78
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,72.52
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,33.29
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.08
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,36.2
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,23.22
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.26
+32,Argentina,2012,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.03
+32,Argentina,2012,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,166.44
+32,Argentina,2012,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,24.98
+32,Argentina,2012,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,98.67
+32,Argentina,2012,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,150.51
+32,Argentina,2012,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,141.28
+32,Argentina,2012,6,2211,Leche cruda,22241,Manteca,l,Litros,14.67
+32,Argentina,2012,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,23.17
+32,Argentina,2012,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.02
+32,Argentina,2012,6,2211,Leche cruda,22230,Yogur ,l,Litros,23.08
+32,Argentina,2012,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.44
+32,Argentina,2012,7,2211,Leche cruda,2211,Leche informal,l,Litros,62.86
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,71.72
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.74
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.07
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,18.12
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,20.2
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,6.85
+32,Argentina,2012,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.27
+32,Argentina,2012,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,178.35
+32,Argentina,2012,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,42.81
+32,Argentina,2012,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,84.53
+32,Argentina,2012,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,171.1
+32,Argentina,2012,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,129.08
+32,Argentina,2012,7,2211,Leche cruda,22241,Manteca,l,Litros,49.37
+32,Argentina,2012,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,22.14
+32,Argentina,2012,7,2211,Leche cruda,22222,Leche condensada,l,Litros,0.85
+32,Argentina,2012,7,2211,Leche cruda,22230,Yogur ,l,Litros,28.55
+32,Argentina,2012,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.53
+32,Argentina,2012,8,2211,Leche cruda,2211,Leche informal,l,Litros,67.05
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,74.91
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,33.97
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.08
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.08
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.63
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.09
+32,Argentina,2012,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.51
+32,Argentina,2012,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,159.9
+32,Argentina,2012,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,43.17
+32,Argentina,2012,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,72.07
+32,Argentina,2012,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,161.08
+32,Argentina,2012,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,136.37
+32,Argentina,2012,8,2211,Leche cruda,22241,Manteca,l,Litros,88.09
+32,Argentina,2012,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,23.07
+32,Argentina,2012,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1.27
+32,Argentina,2012,8,2211,Leche cruda,22230,Yogur ,l,Litros,30.89
+32,Argentina,2012,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.78
+32,Argentina,2012,9,2211,Leche cruda,2211,Leche informal,l,Litros,58.1
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,64.65
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.9
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.06
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,23.65
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.11
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.94
+32,Argentina,2012,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.57
+32,Argentina,2012,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,205.34
+32,Argentina,2012,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,29.5
+32,Argentina,2012,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,77.42
+32,Argentina,2012,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,185.36
+32,Argentina,2012,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,162.03
+32,Argentina,2012,9,2211,Leche cruda,22241,Manteca,l,Litros,92.56
+32,Argentina,2012,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.01
+32,Argentina,2012,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.01
+32,Argentina,2012,9,2211,Leche cruda,22230,Yogur ,l,Litros,34.93
+32,Argentina,2012,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.81
+32,Argentina,2012,10,2211,Leche cruda,2211,Leche informal,l,Litros,69.01
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,77.74
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,33.71
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.06
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.07
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.43
+32,Argentina,2012,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.34
+32,Argentina,2012,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,195.63
+32,Argentina,2012,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,51.76
+32,Argentina,2012,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,64.9
+32,Argentina,2012,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,203.5
+32,Argentina,2012,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,148.82
+32,Argentina,2012,10,2211,Leche cruda,22241,Manteca,l,Litros,105.94
+32,Argentina,2012,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.63
+32,Argentina,2012,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2012,10,2211,Leche cruda,22230,Yogur ,l,Litros,37.37
+32,Argentina,2012,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.14
+32,Argentina,2012,11,2211,Leche cruda,2211,Leche informal,l,Litros,63.46
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,69.78
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.97
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.05
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.53
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.09
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.87
+32,Argentina,2012,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.14
+32,Argentina,2012,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,189.87
+32,Argentina,2012,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,28.02
+32,Argentina,2012,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,57.88
+32,Argentina,2012,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,186.24
+32,Argentina,2012,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,135.59
+32,Argentina,2012,11,2211,Leche cruda,22241,Manteca,l,Litros,98.86
+32,Argentina,2012,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.99
+32,Argentina,2012,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.03
+32,Argentina,2012,11,2211,Leche cruda,22230,Yogur ,l,Litros,42.63
+32,Argentina,2012,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.57
+32,Argentina,2012,12,2211,Leche cruda,2211,Leche informal,l,Litros,60.6
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,67.68
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.76
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.05
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,25.11
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.92
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.94
+32,Argentina,2012,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,13.15
+32,Argentina,2012,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,162.88
+32,Argentina,2012,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,46.89
+32,Argentina,2012,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,75.34
+32,Argentina,2012,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,176.16
+32,Argentina,2012,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,127.82
+32,Argentina,2012,12,2211,Leche cruda,22241,Manteca,l,Litros,90.86
+32,Argentina,2012,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.32
+32,Argentina,2012,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.33
+32,Argentina,2012,12,2211,Leche cruda,22230,Yogur ,l,Litros,39.48
+32,Argentina,2012,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.2
+32,Argentina,2013,1,2211,Leche cruda,2211,Leche informal,l,Litros,58.09
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,63.42
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,27.12
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.42
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.75
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.24
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.54
+32,Argentina,2013,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.19
+32,Argentina,2013,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,138.32
+32,Argentina,2013,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,28.84
+32,Argentina,2013,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,58.99
+32,Argentina,2013,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,179.78
+32,Argentina,2013,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,125.5
+32,Argentina,2013,1,2211,Leche cruda,22241,Manteca,l,Litros,55.85
+32,Argentina,2013,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.49
+32,Argentina,2013,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.78
+32,Argentina,2013,1,2211,Leche cruda,22230,Yogur ,l,Litros,42.11
+32,Argentina,2013,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.38
+32,Argentina,2013,2,2211,Leche cruda,2211,Leche informal,l,Litros,54.95
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,56.37
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.03
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.37
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.63
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.17
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.53
+32,Argentina,2013,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.93
+32,Argentina,2013,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,105.99
+32,Argentina,2013,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,20.42
+32,Argentina,2013,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,43.77
+32,Argentina,2013,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,164.52
+32,Argentina,2013,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,130.2
+32,Argentina,2013,2,2211,Leche cruda,22241,Manteca,l,Litros,49.68
+32,Argentina,2013,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.67
+32,Argentina,2013,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.17
+32,Argentina,2013,2,2211,Leche cruda,22230,Yogur ,l,Litros,36.5
+32,Argentina,2013,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.19
+32,Argentina,2013,3,2211,Leche cruda,2211,Leche informal,l,Litros,62.83
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,61.56
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.8
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.38
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.46
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.99
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.97
+32,Argentina,2013,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,10.07
+32,Argentina,2013,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,113.72
+32,Argentina,2013,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,23.11
+32,Argentina,2013,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,74.25
+32,Argentina,2013,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,177.66
+32,Argentina,2013,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,140.52
+32,Argentina,2013,3,2211,Leche cruda,22241,Manteca,l,Litros,55.14
+32,Argentina,2013,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.45
+32,Argentina,2013,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2013,3,2211,Leche cruda,22230,Yogur ,l,Litros,32.39
+32,Argentina,2013,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.79
+32,Argentina,2013,4,2211,Leche cruda,2211,Leche informal,l,Litros,61.21
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,58.41
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.17
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.28
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.73
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.21
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.91
+32,Argentina,2013,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.57
+32,Argentina,2013,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,104.34
+32,Argentina,2013,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,25.03
+32,Argentina,2013,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,69.36
+32,Argentina,2013,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,165.21
+32,Argentina,2013,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.5
+32,Argentina,2013,4,2211,Leche cruda,22241,Manteca,l,Litros,60.81
+32,Argentina,2013,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.44
+32,Argentina,2013,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2013,4,2211,Leche cruda,22230,Yogur ,l,Litros,30.17
+32,Argentina,2013,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.65
+32,Argentina,2013,5,2211,Leche cruda,2211,Leche informal,l,Litros,67.27
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,60.45
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.38
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.34
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,34.99
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.63
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.04
+32,Argentina,2013,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,14.25
+32,Argentina,2013,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,126.48
+32,Argentina,2013,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,36.16
+32,Argentina,2013,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,84.27
+32,Argentina,2013,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,193.12
+32,Argentina,2013,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,150.42
+32,Argentina,2013,5,2211,Leche cruda,22241,Manteca,l,Litros,63.4
+32,Argentina,2013,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.92
+32,Argentina,2013,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2013,5,2211,Leche cruda,22230,Yogur ,l,Litros,24.7
+32,Argentina,2013,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.66
+32,Argentina,2013,6,2211,Leche cruda,2211,Leche informal,l,Litros,62.09
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,58.25
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.22
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.36
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,34.07
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,20.6
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.71
+32,Argentina,2013,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.23
+32,Argentina,2013,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,157.11
+32,Argentina,2013,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,28.61
+32,Argentina,2013,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,76.68
+32,Argentina,2013,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,156.39
+32,Argentina,2013,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,150.44
+32,Argentina,2013,6,2211,Leche cruda,22241,Manteca,l,Litros,62.04
+32,Argentina,2013,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.28
+32,Argentina,2013,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2013,6,2211,Leche cruda,22230,Yogur ,l,Litros,23.33
+32,Argentina,2013,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.78
+32,Argentina,2013,7,2211,Leche cruda,2211,Leche informal,l,Litros,62.02
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,66.02
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.66
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.23
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.37
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.47
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.52
+32,Argentina,2013,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.97
+32,Argentina,2013,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,169.03
+32,Argentina,2013,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,42.98
+32,Argentina,2013,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,77.32
+32,Argentina,2013,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,174.64
+32,Argentina,2013,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.65
+32,Argentina,2013,7,2211,Leche cruda,22241,Manteca,l,Litros,80.92
+32,Argentina,2013,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.76
+32,Argentina,2013,7,2211,Leche cruda,22222,Leche condensada,l,Litros,0.7
+32,Argentina,2013,7,2211,Leche cruda,22230,Yogur ,l,Litros,25.56
+32,Argentina,2013,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.02
+32,Argentina,2013,8,2211,Leche cruda,2211,Leche informal,l,Litros,64.99
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,67.4
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.64
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.15
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,27.31
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,19.96
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.57
+32,Argentina,2013,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.47
+32,Argentina,2013,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,188.71
+32,Argentina,2013,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,54.24
+32,Argentina,2013,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,65.04
+32,Argentina,2013,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,156
+32,Argentina,2013,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,120.79
+32,Argentina,2013,8,2211,Leche cruda,22241,Manteca,l,Litros,89.8
+32,Argentina,2013,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,24.33
+32,Argentina,2013,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1
+32,Argentina,2013,8,2211,Leche cruda,22230,Yogur ,l,Litros,28.46
+32,Argentina,2013,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.64
+32,Argentina,2013,9,2211,Leche cruda,2211,Leche informal,l,Litros,59.73
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,61.65
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.52
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.24
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.07
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.24
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.92
+32,Argentina,2013,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.05
+32,Argentina,2013,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,208.77
+32,Argentina,2013,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,46.11
+32,Argentina,2013,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,58.41
+32,Argentina,2013,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,164.83
+32,Argentina,2013,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,127.71
+32,Argentina,2013,9,2211,Leche cruda,22241,Manteca,l,Litros,65.33
+32,Argentina,2013,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.44
+32,Argentina,2013,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2013,9,2211,Leche cruda,22230,Yogur ,l,Litros,30.99
+32,Argentina,2013,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.78
+32,Argentina,2013,10,2211,Leche cruda,2211,Leche informal,l,Litros,67.42
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,68.63
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.78
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.26
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.33
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,21.74
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.4
+32,Argentina,2013,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.28
+32,Argentina,2013,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,210.15
+32,Argentina,2013,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,63.56
+32,Argentina,2013,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,72.62
+32,Argentina,2013,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,201.21
+32,Argentina,2013,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,174.71
+32,Argentina,2013,10,2211,Leche cruda,22241,Manteca,l,Litros,67.23
+32,Argentina,2013,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.61
+32,Argentina,2013,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2013,10,2211,Leche cruda,22230,Yogur ,l,Litros,38.1
+32,Argentina,2013,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.19
+32,Argentina,2013,11,2211,Leche cruda,2211,Leche informal,l,Litros,64.06
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,64.87
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.6
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.59
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.2
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,19.17
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.65
+32,Argentina,2013,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.17
+32,Argentina,2013,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,196.08
+32,Argentina,2013,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,53.03
+32,Argentina,2013,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,65.31
+32,Argentina,2013,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,194.44
+32,Argentina,2013,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,134.42
+32,Argentina,2013,11,2211,Leche cruda,22241,Manteca,l,Litros,67.53
+32,Argentina,2013,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.43
+32,Argentina,2013,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2013,11,2211,Leche cruda,22230,Yogur ,l,Litros,36.66
+32,Argentina,2013,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.85
+32,Argentina,2013,12,2211,Leche cruda,2211,Leche informal,l,Litros,57.67
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,61.62
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.15
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.13
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.28
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.84
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.58
+32,Argentina,2013,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.07
+32,Argentina,2013,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,187.41
+32,Argentina,2013,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,49.82
+32,Argentina,2013,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,60.33
+32,Argentina,2013,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,205.15
+32,Argentina,2013,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,130.94
+32,Argentina,2013,12,2211,Leche cruda,22241,Manteca,l,Litros,61.69
+32,Argentina,2013,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.61
+32,Argentina,2013,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.59
+32,Argentina,2013,12,2211,Leche cruda,22230,Yogur ,l,Litros,37.91
+32,Argentina,2013,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.39
+32,Argentina,2014,1,2211,Leche cruda,2211,Leche informal,l,Litros,55.88
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,61.87
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,27.89
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.36
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.74
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.74
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2
+32,Argentina,2014,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.68
+32,Argentina,2014,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,144.11
+32,Argentina,2014,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,47.77
+32,Argentina,2014,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,75.05
+32,Argentina,2014,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,241.36
+32,Argentina,2014,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,127.35
+32,Argentina,2014,1,2211,Leche cruda,22241,Manteca,l,Litros,67.58
+32,Argentina,2014,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.34
+32,Argentina,2014,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.78
+32,Argentina,2014,1,2211,Leche cruda,22230,Yogur ,l,Litros,42.89
+32,Argentina,2014,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.88
+32,Argentina,2014,2,2211,Leche cruda,2211,Leche informal,l,Litros,54.47
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,57.79
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.04
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.31
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.62
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.68
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,1.99
+32,Argentina,2014,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.41
+32,Argentina,2014,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,137.51
+32,Argentina,2014,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,36.62
+32,Argentina,2014,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,67.06
+32,Argentina,2014,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,203.7
+32,Argentina,2014,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,142.46
+32,Argentina,2014,2,2211,Leche cruda,22241,Manteca,l,Litros,51.32
+32,Argentina,2014,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,14.92
+32,Argentina,2014,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.17
+32,Argentina,2014,2,2211,Leche cruda,22230,Yogur ,l,Litros,32.85
+32,Argentina,2014,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.84
+32,Argentina,2014,3,2211,Leche cruda,2211,Leche informal,l,Litros,60.7
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,59.93
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.08
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.29
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.13
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.08
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.77
+32,Argentina,2014,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.77
+32,Argentina,2014,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,109.02
+32,Argentina,2014,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,30.62
+32,Argentina,2014,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,61.47
+32,Argentina,2014,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,162.42
+32,Argentina,2014,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,152.46
+32,Argentina,2014,3,2211,Leche cruda,22241,Manteca,l,Litros,47.59
+32,Argentina,2014,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.8
+32,Argentina,2014,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2014,3,2211,Leche cruda,22230,Yogur ,l,Litros,30.19
+32,Argentina,2014,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.25
+32,Argentina,2014,4,2211,Leche cruda,2211,Leche informal,l,Litros,62.1
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,59.05
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.67
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.24
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.03
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.96
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.92
+32,Argentina,2014,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.59
+32,Argentina,2014,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,94.54
+32,Argentina,2014,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,26.11
+32,Argentina,2014,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,66.52
+32,Argentina,2014,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,155.32
+32,Argentina,2014,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,140.47
+32,Argentina,2014,4,2211,Leche cruda,22241,Manteca,l,Litros,50.96
+32,Argentina,2014,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.67
+32,Argentina,2014,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2014,4,2211,Leche cruda,22230,Yogur ,l,Litros,26.57
+32,Argentina,2014,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.9
+32,Argentina,2014,5,2211,Leche cruda,2211,Leche informal,l,Litros,67.35
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,59.27
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.18
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.28
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,33.28
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.58
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.47
+32,Argentina,2014,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,14.19
+32,Argentina,2014,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,112.86
+32,Argentina,2014,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,23.39
+32,Argentina,2014,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,83.01
+32,Argentina,2014,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,181.16
+32,Argentina,2014,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,160.65
+32,Argentina,2014,5,2211,Leche cruda,22241,Manteca,l,Litros,60.42
+32,Argentina,2014,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.36
+32,Argentina,2014,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2014,5,2211,Leche cruda,22230,Yogur ,l,Litros,25
+32,Argentina,2014,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.93
+32,Argentina,2014,6,2211,Leche cruda,2211,Leche informal,l,Litros,62.43
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,58.96
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.18
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.29
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.36
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,20.21
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.65
+32,Argentina,2014,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,3.62
+32,Argentina,2014,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,110.94
+32,Argentina,2014,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,38.4
+32,Argentina,2014,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,74.9
+32,Argentina,2014,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,156.88
+32,Argentina,2014,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,155.92
+32,Argentina,2014,6,2211,Leche cruda,22241,Manteca,l,Litros,67.83
+32,Argentina,2014,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.49
+32,Argentina,2014,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2014,6,2211,Leche cruda,22230,Yogur ,l,Litros,20.17
+32,Argentina,2014,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.86
+32,Argentina,2014,7,2211,Leche cruda,2211,Leche informal,l,Litros,57.32
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,60.21
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.36
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.2
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,20.71
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.18
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.18
+32,Argentina,2014,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.97
+32,Argentina,2014,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,156.9
+32,Argentina,2014,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,36.25
+32,Argentina,2014,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,68.98
+32,Argentina,2014,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,167.32
+32,Argentina,2014,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,135.52
+32,Argentina,2014,7,2211,Leche cruda,22241,Manteca,l,Litros,73.74
+32,Argentina,2014,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.54
+32,Argentina,2014,7,2211,Leche cruda,22222,Leche condensada,l,Litros,0.7
+32,Argentina,2014,7,2211,Leche cruda,22230,Yogur ,l,Litros,25.57
+32,Argentina,2014,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.31
+32,Argentina,2014,8,2211,Leche cruda,2211,Leche informal,l,Litros,70.22
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,59.95
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.12
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,50.1
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.37
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.05
+32,Argentina,2014,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.66
+32,Argentina,2014,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,157.81
+32,Argentina,2014,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,56.7
+32,Argentina,2014,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,58.98
+32,Argentina,2014,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,170.06
+32,Argentina,2014,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,128.04
+32,Argentina,2014,8,2211,Leche cruda,22241,Manteca,l,Litros,76.74
+32,Argentina,2014,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,23.19
+32,Argentina,2014,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1
+32,Argentina,2014,8,2211,Leche cruda,22230,Yogur ,l,Litros,26.41
+32,Argentina,2014,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.19
+32,Argentina,2014,9,2211,Leche cruda,2211,Leche informal,l,Litros,68.59
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,82.3
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.81
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.29
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,26.95
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.1
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3
+32,Argentina,2014,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.84
+32,Argentina,2014,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,160.06
+32,Argentina,2014,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,74.47
+32,Argentina,2014,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,66.94
+32,Argentina,2014,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,169.9
+32,Argentina,2014,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,143.21
+32,Argentina,2014,9,2211,Leche cruda,22241,Manteca,l,Litros,64.71
+32,Argentina,2014,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.82
+32,Argentina,2014,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2014,9,2211,Leche cruda,22230,Yogur ,l,Litros,29.64
+32,Argentina,2014,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.43
+32,Argentina,2014,10,2211,Leche cruda,2211,Leche informal,l,Litros,73.91
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,84.95
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,36.66
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.38
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.46
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.21
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.29
+32,Argentina,2014,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.31
+32,Argentina,2014,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,189.13
+32,Argentina,2014,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,52.77
+32,Argentina,2014,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,74.99
+32,Argentina,2014,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,184.93
+32,Argentina,2014,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,167.39
+32,Argentina,2014,10,2211,Leche cruda,22241,Manteca,l,Litros,58.2
+32,Argentina,2014,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.82
+32,Argentina,2014,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2014,10,2211,Leche cruda,22230,Yogur ,l,Litros,34.72
+32,Argentina,2014,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.79
+32,Argentina,2014,11,2211,Leche cruda,2211,Leche informal,l,Litros,68.91
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,77.06
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.76
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.77
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.28
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.63
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.45
+32,Argentina,2014,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.13
+32,Argentina,2014,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,161.19
+32,Argentina,2014,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,53.93
+32,Argentina,2014,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,65.39
+32,Argentina,2014,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,178.93
+32,Argentina,2014,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.66
+32,Argentina,2014,11,2211,Leche cruda,22241,Manteca,l,Litros,62.2
+32,Argentina,2014,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,14.8
+32,Argentina,2014,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2014,11,2211,Leche cruda,22230,Yogur ,l,Litros,35.12
+32,Argentina,2014,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.71
+32,Argentina,2014,12,2211,Leche cruda,2211,Leche informal,l,Litros,72.77
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,81.65
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,33.74
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.16
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,34.49
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.96
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.69
+32,Argentina,2014,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.79
+32,Argentina,2014,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,181.79
+32,Argentina,2014,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,48.43
+32,Argentina,2014,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,69.07
+32,Argentina,2014,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,188.81
+32,Argentina,2014,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,140.6
+32,Argentina,2014,12,2211,Leche cruda,22241,Manteca,l,Litros,66.22
+32,Argentina,2014,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.62
+32,Argentina,2014,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.59
+32,Argentina,2014,12,2211,Leche cruda,22230,Yogur ,l,Litros,35.33
+32,Argentina,2014,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.4
+32,Argentina,2015,1,2211,Leche cruda,2211,Leche informal,l,Litros,56.37
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,56.48
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,28.92
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.47
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.95
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,9.35
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.86
+32,Argentina,2015,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.45
+32,Argentina,2015,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,130.5
+32,Argentina,2015,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,51.45
+32,Argentina,2015,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,66.66
+32,Argentina,2015,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,196.21
+32,Argentina,2015,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.56
+32,Argentina,2015,1,2211,Leche cruda,22241,Manteca,l,Litros,60.21
+32,Argentina,2015,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.68
+32,Argentina,2015,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.78
+32,Argentina,2015,1,2211,Leche cruda,22230,Yogur ,l,Litros,38.82
+32,Argentina,2015,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.86
+32,Argentina,2015,2,2211,Leche cruda,2211,Leche informal,l,Litros,60.58
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,68.28
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.59
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.36
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.8
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,9.31
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.84
+32,Argentina,2015,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.58
+32,Argentina,2015,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,111.36
+32,Argentina,2015,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,40.67
+32,Argentina,2015,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,48.11
+32,Argentina,2015,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,158.17
+32,Argentina,2015,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,150.56
+32,Argentina,2015,2,2211,Leche cruda,22241,Manteca,l,Litros,53.07
+32,Argentina,2015,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.47
+32,Argentina,2015,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.17
+32,Argentina,2015,2,2211,Leche cruda,22230,Yogur ,l,Litros,33.45
+32,Argentina,2015,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.74
+32,Argentina,2015,3,2211,Leche cruda,2211,Leche informal,l,Litros,72.81
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,80.89
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.22
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.39
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,36.44
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.05
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.64
+32,Argentina,2015,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.94
+32,Argentina,2015,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,111.36
+32,Argentina,2015,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,32.19
+32,Argentina,2015,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,66.68
+32,Argentina,2015,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,156.61
+32,Argentina,2015,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,153.29
+32,Argentina,2015,3,2211,Leche cruda,22241,Manteca,l,Litros,43.04
+32,Argentina,2015,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.24
+32,Argentina,2015,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2015,3,2211,Leche cruda,22230,Yogur ,l,Litros,33.1
+32,Argentina,2015,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.3
+32,Argentina,2015,4,2211,Leche cruda,2211,Leche informal,l,Litros,74.98
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.24
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.7
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.32
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,42.86
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.18
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.58
+32,Argentina,2015,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,11.01
+32,Argentina,2015,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,121.71
+32,Argentina,2015,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,22.84
+32,Argentina,2015,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,53.11
+32,Argentina,2015,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,149.7
+32,Argentina,2015,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,135.09
+32,Argentina,2015,4,2211,Leche cruda,22241,Manteca,l,Litros,50
+32,Argentina,2015,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.63
+32,Argentina,2015,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2015,4,2211,Leche cruda,22230,Yogur ,l,Litros,28.29
+32,Argentina,2015,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.97
+32,Argentina,2015,5,2211,Leche cruda,2211,Leche informal,l,Litros,74.2
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,67.38
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.59
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.32
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,46.65
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,13.35
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.01
+32,Argentina,2015,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,14.69
+32,Argentina,2015,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,131.53
+32,Argentina,2015,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,21.55
+32,Argentina,2015,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,68.46
+32,Argentina,2015,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,183.82
+32,Argentina,2015,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,158.28
+32,Argentina,2015,5,2211,Leche cruda,22241,Manteca,l,Litros,48.99
+32,Argentina,2015,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.14
+32,Argentina,2015,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2015,5,2211,Leche cruda,22230,Yogur ,l,Litros,22.37
+32,Argentina,2015,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.29
+32,Argentina,2015,6,2211,Leche cruda,2211,Leche informal,l,Litros,74.97
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.87
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.68
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.39
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,45.31
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.92
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.9
+32,Argentina,2015,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.8
+32,Argentina,2015,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,139.38
+32,Argentina,2015,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,34.94
+32,Argentina,2015,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,76.74
+32,Argentina,2015,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,176.54
+32,Argentina,2015,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,177.6
+32,Argentina,2015,6,2211,Leche cruda,22241,Manteca,l,Litros,56.15
+32,Argentina,2015,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,22.21
+32,Argentina,2015,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2015,6,2211,Leche cruda,22230,Yogur ,l,Litros,22.17
+32,Argentina,2015,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4
+32,Argentina,2015,7,2211,Leche cruda,2211,Leche informal,l,Litros,69.91
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,78.6
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,36.82
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.26
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,36.72
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,10.5
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.94
+32,Argentina,2015,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.68
+32,Argentina,2015,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,177.13
+32,Argentina,2015,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,36.72
+32,Argentina,2015,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,66.89
+32,Argentina,2015,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,177.59
+32,Argentina,2015,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,136.78
+32,Argentina,2015,7,2211,Leche cruda,22241,Manteca,l,Litros,67.02
+32,Argentina,2015,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.49
+32,Argentina,2015,7,2211,Leche cruda,22222,Leche condensada,l,Litros,0.7
+32,Argentina,2015,7,2211,Leche cruda,22230,Yogur ,l,Litros,22.42
+32,Argentina,2015,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.32
+32,Argentina,2015,8,2211,Leche cruda,2211,Leche informal,l,Litros,69.4
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,73.25
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,36.62
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.15
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,37.23
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,11.28
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.08
+32,Argentina,2015,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.66
+32,Argentina,2015,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,159.65
+32,Argentina,2015,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,57.17
+32,Argentina,2015,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,69.62
+32,Argentina,2015,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,185.58
+32,Argentina,2015,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,139.34
+32,Argentina,2015,8,2211,Leche cruda,22241,Manteca,l,Litros,76.53
+32,Argentina,2015,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,22.41
+32,Argentina,2015,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1
+32,Argentina,2015,8,2211,Leche cruda,22230,Yogur ,l,Litros,26.31
+32,Argentina,2015,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.28
+32,Argentina,2015,9,2211,Leche cruda,2211,Leche informal,l,Litros,71.14
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,75.86
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.99
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.26
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,37.13
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,11.2
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.43
+32,Argentina,2015,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.63
+32,Argentina,2015,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,200.25
+32,Argentina,2015,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,66.38
+32,Argentina,2015,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.21
+32,Argentina,2015,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,194.12
+32,Argentina,2015,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,151.64
+32,Argentina,2015,9,2211,Leche cruda,22241,Manteca,l,Litros,65.16
+32,Argentina,2015,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.58
+32,Argentina,2015,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2015,9,2211,Leche cruda,22230,Yogur ,l,Litros,30.02
+32,Argentina,2015,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.37
+32,Argentina,2015,10,2211,Leche cruda,2211,Leche informal,l,Litros,77.28
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,82.57
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,36.81
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.37
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,42.09
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.17
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,5.55
+32,Argentina,2015,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,5.93
+32,Argentina,2015,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,209.27
+32,Argentina,2015,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,59.66
+32,Argentina,2015,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,75.48
+32,Argentina,2015,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,178.79
+32,Argentina,2015,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,182.41
+32,Argentina,2015,10,2211,Leche cruda,22241,Manteca,l,Litros,67.43
+32,Argentina,2015,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.87
+32,Argentina,2015,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2015,10,2211,Leche cruda,22230,Yogur ,l,Litros,33.42
+32,Argentina,2015,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.78
+32,Argentina,2015,11,2211,Leche cruda,2211,Leche informal,l,Litros,69.61
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,70.14
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,33.15
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.61
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,36.83
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.56
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.62
+32,Argentina,2015,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.88
+32,Argentina,2015,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,203.4
+32,Argentina,2015,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,45
+32,Argentina,2015,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,71.12
+32,Argentina,2015,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,143.79
+32,Argentina,2015,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,145.47
+32,Argentina,2015,11,2211,Leche cruda,22241,Manteca,l,Litros,58.04
+32,Argentina,2015,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.14
+32,Argentina,2015,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2015,11,2211,Leche cruda,22230,Yogur ,l,Litros,34.97
+32,Argentina,2015,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.46
+32,Argentina,2015,12,2211,Leche cruda,2211,Leche informal,l,Litros,67.21
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,65.14
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.4
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.13
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,38.4
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.67
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.76
+32,Argentina,2015,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.43
+32,Argentina,2015,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,181.56
+32,Argentina,2015,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,49.42
+32,Argentina,2015,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,71.03
+32,Argentina,2015,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,165.48
+32,Argentina,2015,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,140.28
+32,Argentina,2015,12,2211,Leche cruda,22241,Manteca,l,Litros,56.49
+32,Argentina,2015,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.32
+32,Argentina,2015,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.59
+32,Argentina,2015,12,2211,Leche cruda,22230,Yogur ,l,Litros,38.02
+32,Argentina,2015,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.84
+32,Argentina,2016,1,2211,Leche cruda,2211,Leche informal,l,Litros,59.16
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,56.48
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.58
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.46
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,32.95
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.94
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.22
+32,Argentina,2016,1,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.66
+32,Argentina,2016,1,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,129.64
+32,Argentina,2016,1,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,40.95
+32,Argentina,2016,1,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,81.23
+32,Argentina,2016,1,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,159.44
+32,Argentina,2016,1,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,111.44
+32,Argentina,2016,1,2211,Leche cruda,22241,Manteca,l,Litros,43.95
+32,Argentina,2016,1,2211,Leche cruda,22222,Dulce de leche,l,Litros,15.83
+32,Argentina,2016,1,2211,Leche cruda,22222,Leche condensada,l,Litros,0.78
+32,Argentina,2016,1,2211,Leche cruda,22230,Yogur ,l,Litros,40.38
+32,Argentina,2016,1,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.2
+32,Argentina,2016,2,2211,Leche cruda,2211,Leche informal,l,Litros,57.78
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,54.66
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,30.68
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.42
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,32.79
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.87
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.2
+32,Argentina,2016,2,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.29
+32,Argentina,2016,2,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,107.7
+32,Argentina,2016,2,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,28.42
+32,Argentina,2016,2,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,68.33
+32,Argentina,2016,2,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,148.07
+32,Argentina,2016,2,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,124.19
+32,Argentina,2016,2,2211,Leche cruda,22241,Manteca,l,Litros,41.88
+32,Argentina,2016,2,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.33
+32,Argentina,2016,2,2211,Leche cruda,22222,Leche condensada,l,Litros,1.17
+32,Argentina,2016,2,2211,Leche cruda,22230,Yogur ,l,Litros,34.82
+32,Argentina,2016,2,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.36
+32,Argentina,2016,3,2211,Leche cruda,2211,Leche informal,l,Litros,67.7
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,54.55
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.03
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.42
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,40.8
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,19.73
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.68
+32,Argentina,2016,3,2211,Leche cruda,22110,Leche chocolatada,l,Litros,10.93
+32,Argentina,2016,3,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,89.89
+32,Argentina,2016,3,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,20.65
+32,Argentina,2016,3,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,76.27
+32,Argentina,2016,3,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,141.69
+32,Argentina,2016,3,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,137.53
+32,Argentina,2016,3,2211,Leche cruda,22241,Manteca,l,Litros,41.74
+32,Argentina,2016,3,2211,Leche cruda,22222,Dulce de leche,l,Litros,19.26
+32,Argentina,2016,3,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2016,3,2211,Leche cruda,22230,Yogur ,l,Litros,33.42
+32,Argentina,2016,3,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.26
+32,Argentina,2016,4,2211,Leche cruda,2211,Leche informal,l,Litros,57.17
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,45.7
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.94
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.35
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,32.16
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,14.59
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,2.43
+32,Argentina,2016,4,2211,Leche cruda,22110,Leche chocolatada,l,Litros,9.26
+32,Argentina,2016,4,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,76.08
+32,Argentina,2016,4,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,18.68
+32,Argentina,2016,4,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,66.02
+32,Argentina,2016,4,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,119.25
+32,Argentina,2016,4,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,109.62
+32,Argentina,2016,4,2211,Leche cruda,22241,Manteca,l,Litros,38.37
+32,Argentina,2016,4,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.81
+32,Argentina,2016,4,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2016,4,2211,Leche cruda,22230,Yogur ,l,Litros,23.07
+32,Argentina,2016,4,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.47
+32,Argentina,2016,5,2211,Leche cruda,2211,Leche informal,l,Litros,66.37
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,49.16
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,32.54
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.36
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,42.55
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,19.25
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.81
+32,Argentina,2016,5,2211,Leche cruda,22110,Leche chocolatada,l,Litros,13.2
+32,Argentina,2016,5,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,76.7
+32,Argentina,2016,5,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,17.24
+32,Argentina,2016,5,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,78.28
+32,Argentina,2016,5,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,131.47
+32,Argentina,2016,5,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,144.68
+32,Argentina,2016,5,2211,Leche cruda,22241,Manteca,l,Litros,36.2
+32,Argentina,2016,5,2211,Leche cruda,22222,Dulce de leche,l,Litros,17.74
+32,Argentina,2016,5,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2016,5,2211,Leche cruda,22230,Yogur ,l,Litros,21.44
+32,Argentina,2016,5,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.82
+32,Argentina,2016,6,2211,Leche cruda,2211,Leche informal,l,Litros,67.02
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,52.87
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.86
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.41
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,43.77
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,20.56
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,5.66
+32,Argentina,2016,6,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.33
+32,Argentina,2016,6,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,65.92
+32,Argentina,2016,6,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,18.38
+32,Argentina,2016,6,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,98.84
+32,Argentina,2016,6,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,146.5
+32,Argentina,2016,6,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,158.45
+32,Argentina,2016,6,2211,Leche cruda,22241,Manteca,l,Litros,40.27
+32,Argentina,2016,6,2211,Leche cruda,22222,Dulce de leche,l,Litros,21.71
+32,Argentina,2016,6,2211,Leche cruda,22222,Leche condensada,l,Litros,1.32
+32,Argentina,2016,6,2211,Leche cruda,22230,Yogur ,l,Litros,21.1
+32,Argentina,2016,6,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.03
+32,Argentina,2016,7,2211,Leche cruda,2211,Leche informal,l,Litros,61.32
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,57.67
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,35.76
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.28
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,30.26
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.19
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,3.73
+32,Argentina,2016,7,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.67
+32,Argentina,2016,7,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,84.71
+32,Argentina,2016,7,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,35.09
+32,Argentina,2016,7,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,84.35
+32,Argentina,2016,7,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,161.76
+32,Argentina,2016,7,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,124.92
+32,Argentina,2016,7,2211,Leche cruda,22241,Manteca,l,Litros,44.27
+32,Argentina,2016,7,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.2
+32,Argentina,2016,7,2211,Leche cruda,22222,Leche condensada,l,Litros,0.7
+32,Argentina,2016,7,2211,Leche cruda,22230,Yogur ,l,Litros,24.47
+32,Argentina,2016,7,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.29
+32,Argentina,2016,8,2211,Leche cruda,2211,Leche informal,l,Litros,69.33
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,67.11
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.96
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.17
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,37.74
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,18.54
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.21
+32,Argentina,2016,8,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.39
+32,Argentina,2016,8,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,82.95
+32,Argentina,2016,8,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,54.46
+32,Argentina,2016,8,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,81.66
+32,Argentina,2016,8,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,169.27
+32,Argentina,2016,8,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,126.97
+32,Argentina,2016,8,2211,Leche cruda,22241,Manteca,l,Litros,54.74
+32,Argentina,2016,8,2211,Leche cruda,22222,Dulce de leche,l,Litros,22.99
+32,Argentina,2016,8,2211,Leche cruda,22222,Leche condensada,l,Litros,1
+32,Argentina,2016,8,2211,Leche cruda,22230,Yogur ,l,Litros,26.89
+32,Argentina,2016,8,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,4.25
+32,Argentina,2016,9,2211,Leche cruda,2211,Leche informal,l,Litros,61.31
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,52.78
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.25
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.25
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,33.24
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,16.62
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,5.54
+32,Argentina,2016,9,2211,Leche cruda,22110,Leche chocolatada,l,Litros,6.86
+32,Argentina,2016,9,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,108.34
+32,Argentina,2016,9,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,62.63
+32,Argentina,2016,9,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,97.51
+32,Argentina,2016,9,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,196.82
+32,Argentina,2016,9,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,144.87
+32,Argentina,2016,9,2211,Leche cruda,22241,Manteca,l,Litros,43.66
+32,Argentina,2016,9,2211,Leche cruda,22222,Dulce de leche,l,Litros,20.51
+32,Argentina,2016,9,2211,Leche cruda,22222,Leche condensada,l,Litros,1.21
+32,Argentina,2016,9,2211,Leche cruda,22230,Yogur ,l,Litros,19.38
+32,Argentina,2016,9,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.04
+32,Argentina,2016,10,2211,Leche cruda,2211,Leche informal,l,Litros,62.11
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,53.45
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,34.6
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.35
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,35.17
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,17.58
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,5.86
+32,Argentina,2016,10,2211,Leche cruda,22110,Leche chocolatada,l,Litros,4.47
+32,Argentina,2016,10,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,103.49
+32,Argentina,2016,10,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,49.83
+32,Argentina,2016,10,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,72.61
+32,Argentina,2016,10,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,194.09
+32,Argentina,2016,10,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,157.57
+32,Argentina,2016,10,2211,Leche cruda,22241,Manteca,l,Litros,46.7
+32,Argentina,2016,10,2211,Leche cruda,22222,Dulce de leche,l,Litros,16.53
+32,Argentina,2016,10,2211,Leche cruda,22222,Leche condensada,l,Litros,1.12
+32,Argentina,2016,10,2211,Leche cruda,22230,Yogur ,l,Litros,31.67
+32,Argentina,2016,10,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.53
+32,Argentina,2016,11,2211,Leche cruda,2211,Leche informal,l,Litros,58.29
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,49.21
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,31.85
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,1.66
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,31.17
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,15.59
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,5.2
+32,Argentina,2016,11,2211,Leche cruda,22110,Leche chocolatada,l,Litros,7.49
+32,Argentina,2016,11,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,70.51
+32,Argentina,2016,11,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,52.34
+32,Argentina,2016,11,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,95.68
+32,Argentina,2016,11,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,161.96
+32,Argentina,2016,11,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,158.23
+32,Argentina,2016,11,2211,Leche cruda,22241,Manteca,l,Litros,48.88
+32,Argentina,2016,11,2211,Leche cruda,22222,Dulce de leche,l,Litros,14.92
+32,Argentina,2016,11,2211,Leche cruda,22222,Leche condensada,l,Litros,1.33
+32,Argentina,2016,11,2211,Leche cruda,22230,Yogur ,l,Litros,34.55
+32,Argentina,2016,11,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,3.44
+32,Argentina,2016,12,2211,Leche cruda,2211,Leche informal,l,Litros,51.01
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche pasteurizada entera,l,Litros,45.72
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche pasteurizada semidescremada,l,Litros,29.59
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche pasteurizada descremada,l,Litros,0.13
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche esterilizada entera,l,Litros,24.56
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche esterilizada semidescremada,l,Litros,12.28
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche esterilizada descremada,l,Litros,4.09
+32,Argentina,2016,12,2211,Leche cruda,22110,Leche chocolatada,l,Litros,8.05
+32,Argentina,2016,12,2211,Leche cruda,22211,Leche en polvo entera ,l,Litros,89.8
+32,Argentina,2016,12,2211,Leche cruda,22212,Leche en polvo descremada,l,Litros,48.57
+32,Argentina,2016,12,2211,Leche cruda,22251,Quesos de baja humedad (pasta dura),l,Litros,100.06
+32,Argentina,2016,12,2211,Leche cruda,22251,Quesos de mediana humedad (pasta semidura),l,Litros,170.36
+32,Argentina,2016,12,2211,Leche cruda,22251,Quesos de alta humedad (pasta blanda),l,Litros,133.18
+32,Argentina,2016,12,2211,Leche cruda,22241,Manteca,l,Litros,45.06
+32,Argentina,2016,12,2211,Leche cruda,22222,Dulce de leche,l,Litros,18.29
+32,Argentina,2016,12,2211,Leche cruda,22222,Leche condensada,l,Litros,0.59
+32,Argentina,2016,12,2211,Leche cruda,22230,Yogur ,l,Litros,33.97
+32,Argentina,2016,12,2211,Leche cruda,22290,Postres lacteos y flanes,l,Litros,2.08

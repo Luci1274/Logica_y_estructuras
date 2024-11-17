@@ -1,0 +1,217 @@
+﻿pais_id,pais,año,mes,ccp_origen,producto_origen,ccp_destino,producto_destino,uni_med_id,uni_med,cantidad_por_millon
+32,Argentina,1983,1,2211,Leche cruda,,Productos,l,Litros,416
+32,Argentina,1983,2,2211,Leche cruda,,Productos,l,Litros,365
+32,Argentina,1983,3,2211,Leche cruda,,Productos,l,Litros,353
+32,Argentina,1983,4,2211,Leche cruda,,Productos,l,Litros,291
+32,Argentina,1983,5,2211,Leche cruda,,Productos,l,Litros,272
+32,Argentina,1983,6,2211,Leche cruda,,Productos,l,Litros,249
+32,Argentina,1983,7,2211,Leche cruda,,Productos,l,Litros,262
+32,Argentina,1983,8,2211,Leche cruda,,Productos,l,Litros,278
+32,Argentina,1983,9,2211,Leche cruda,,Productos,l,Litros,350
+32,Argentina,1983,10,2211,Leche cruda,,Productos,l,Litros,411
+32,Argentina,1983,11,2211,Leche cruda,,Productos,l,Litros,454
+32,Argentina,1983,12,2211,Leche cruda,,Productos,l,Litros,421
+32,Argentina,1983,1,2211,Leche cruda,22110,Leche fluida,l,Litros,90
+32,Argentina,1983,2,2211,Leche cruda,22110,Leche fluida,l,Litros,83
+32,Argentina,1983,3,2211,Leche cruda,22110,Leche fluida,l,Litros,92
+32,Argentina,1983,4,2211,Leche cruda,22110,Leche fluida,l,Litros,90
+32,Argentina,1983,5,2211,Leche cruda,22110,Leche fluida,l,Litros,90
+32,Argentina,1983,6,2211,Leche cruda,22110,Leche fluida,l,Litros,91
+32,Argentina,1983,7,2211,Leche cruda,22110,Leche fluida,l,Litros,93
+32,Argentina,1983,8,2211,Leche cruda,22110,Leche fluida,l,Litros,94
+32,Argentina,1983,9,2211,Leche cruda,22110,Leche fluida,l,Litros,92
+32,Argentina,1983,10,2211,Leche cruda,22110,Leche fluida,l,Litros,91
+32,Argentina,1983,11,2211,Leche cruda,22110,Leche fluida,l,Litros,89
+32,Argentina,1983,12,2211,Leche cruda,22110,Leche fluida,l,Litros,89
+32,Argentina,1983,1,2211,Leche cruda,2211,Leche informal,l,Litros,40.5
+32,Argentina,1983,2,2211,Leche cruda,2211,Leche informal,l,Litros,37.4
+32,Argentina,1983,3,2211,Leche cruda,2211,Leche informal,l,Litros,41.4
+32,Argentina,1983,4,2211,Leche cruda,2211,Leche informal,l,Litros,40.5
+32,Argentina,1983,5,2211,Leche cruda,2211,Leche informal,l,Litros,40.5
+32,Argentina,1983,6,2211,Leche cruda,2211,Leche informal,l,Litros,41
+32,Argentina,1983,7,2211,Leche cruda,2211,Leche informal,l,Litros,41.9
+32,Argentina,1983,8,2211,Leche cruda,2211,Leche informal,l,Litros,42.3
+32,Argentina,1983,9,2211,Leche cruda,2211,Leche informal,l,Litros,41.4
+32,Argentina,1983,10,2211,Leche cruda,2211,Leche informal,l,Litros,41
+32,Argentina,1983,11,2211,Leche cruda,2211,Leche informal,l,Litros,40.1
+32,Argentina,1983,12,2211,Leche cruda,2211,Leche informal,l,Litros,40.1
+32,Argentina,1984,1,2211,Leche cruda,,Productos,l,Litros,392
+32,Argentina,1984,2,2211,Leche cruda,,Productos,l,Litros,324
+32,Argentina,1984,3,2211,Leche cruda,,Productos,l,Litros,316
+32,Argentina,1984,4,2211,Leche cruda,,Productos,l,Litros,292
+32,Argentina,1984,5,2211,Leche cruda,,Productos,l,Litros,265
+32,Argentina,1984,6,2211,Leche cruda,,Productos,l,Litros,231
+32,Argentina,1984,7,2211,Leche cruda,,Productos,l,Litros,232
+32,Argentina,1984,8,2211,Leche cruda,,Productos,l,Litros,247
+32,Argentina,1984,9,2211,Leche cruda,,Productos,l,Litros,281
+32,Argentina,1984,10,2211,Leche cruda,,Productos,l,Litros,390
+32,Argentina,1984,11,2211,Leche cruda,,Productos,l,Litros,409
+32,Argentina,1984,12,2211,Leche cruda,,Productos,l,Litros,419
+32,Argentina,1984,1,2211,Leche cruda,22110,Leche fluida,l,Litros,88
+32,Argentina,1984,2,2211,Leche cruda,22110,Leche fluida,l,Litros,82
+32,Argentina,1984,3,2211,Leche cruda,22110,Leche fluida,l,Litros,93
+32,Argentina,1984,4,2211,Leche cruda,22110,Leche fluida,l,Litros,89
+32,Argentina,1984,5,2211,Leche cruda,22110,Leche fluida,l,Litros,84
+32,Argentina,1984,6,2211,Leche cruda,22110,Leche fluida,l,Litros,94
+32,Argentina,1984,7,2211,Leche cruda,22110,Leche fluida,l,Litros,87
+32,Argentina,1984,8,2211,Leche cruda,22110,Leche fluida,l,Litros,90
+32,Argentina,1984,9,2211,Leche cruda,22110,Leche fluida,l,Litros,87
+32,Argentina,1984,10,2211,Leche cruda,22110,Leche fluida,l,Litros,94
+32,Argentina,1984,11,2211,Leche cruda,22110,Leche fluida,l,Litros,91
+32,Argentina,1984,12,2211,Leche cruda,22110,Leche fluida,l,Litros,85
+32,Argentina,1984,1,2211,Leche cruda,2211,Leche informal,l,Litros,39.6
+32,Argentina,1984,2,2211,Leche cruda,2211,Leche informal,l,Litros,36.9
+32,Argentina,1984,3,2211,Leche cruda,2211,Leche informal,l,Litros,41.9
+32,Argentina,1984,4,2211,Leche cruda,2211,Leche informal,l,Litros,40.1
+32,Argentina,1984,5,2211,Leche cruda,2211,Leche informal,l,Litros,37.8
+32,Argentina,1984,6,2211,Leche cruda,2211,Leche informal,l,Litros,42.3
+32,Argentina,1984,7,2211,Leche cruda,2211,Leche informal,l,Litros,39.2
+32,Argentina,1984,8,2211,Leche cruda,2211,Leche informal,l,Litros,40.5
+32,Argentina,1984,9,2211,Leche cruda,2211,Leche informal,l,Litros,39.2
+32,Argentina,1984,10,2211,Leche cruda,2211,Leche informal,l,Litros,42.3
+32,Argentina,1984,11,2211,Leche cruda,2211,Leche informal,l,Litros,41
+32,Argentina,1984,12,2211,Leche cruda,2211,Leche informal,l,Litros,38.3
+32,Argentina,1985,1,2211,Leche cruda,,Productos,l,Litros,390
+32,Argentina,1985,2,2211,Leche cruda,,Productos,l,Litros,354
+32,Argentina,1985,3,2211,Leche cruda,,Productos,l,Litros,368
+32,Argentina,1985,4,2211,Leche cruda,,Productos,l,Litros,287
+32,Argentina,1985,5,2211,Leche cruda,,Productos,l,Litros,283
+32,Argentina,1985,6,2211,Leche cruda,,Productos,l,Litros,303
+32,Argentina,1985,7,2211,Leche cruda,,Productos,l,Litros,303
+32,Argentina,1985,8,2211,Leche cruda,,Productos,l,Litros,320
+32,Argentina,1985,9,2211,Leche cruda,,Productos,l,Litros,372
+32,Argentina,1985,10,2211,Leche cruda,,Productos,l,Litros,530
+32,Argentina,1985,11,2211,Leche cruda,,Productos,l,Litros,457
+32,Argentina,1985,12,2211,Leche cruda,,Productos,l,Litros,420
+32,Argentina,1985,1,2211,Leche cruda,22110,Leche fluida,l,Litros,92.7
+32,Argentina,1985,2,2211,Leche cruda,22110,Leche fluida,l,Litros,83.3
+32,Argentina,1985,3,2211,Leche cruda,22110,Leche fluida,l,Litros,90.7
+32,Argentina,1985,4,2211,Leche cruda,22110,Leche fluida,l,Litros,88
+32,Argentina,1985,5,2211,Leche cruda,22110,Leche fluida,l,Litros,90.6
+32,Argentina,1985,6,2211,Leche cruda,22110,Leche fluida,l,Litros,84.9
+32,Argentina,1985,7,2211,Leche cruda,22110,Leche fluida,l,Litros,89.1
+32,Argentina,1985,8,2211,Leche cruda,22110,Leche fluida,l,Litros,90.5
+32,Argentina,1985,9,2211,Leche cruda,22110,Leche fluida,l,Litros,90.2
+32,Argentina,1985,10,2211,Leche cruda,22110,Leche fluida,l,Litros,98.1
+32,Argentina,1985,11,2211,Leche cruda,22110,Leche fluida,l,Litros,94.2
+32,Argentina,1985,12,2211,Leche cruda,22110,Leche fluida,l,Litros,93.8
+32,Argentina,1985,1,2211,Leche cruda,2211,Leche informal,l,Litros,41.7
+32,Argentina,1985,2,2211,Leche cruda,2211,Leche informal,l,Litros,37.5
+32,Argentina,1985,3,2211,Leche cruda,2211,Leche informal,l,Litros,40.8
+32,Argentina,1985,4,2211,Leche cruda,2211,Leche informal,l,Litros,39.6
+32,Argentina,1985,5,2211,Leche cruda,2211,Leche informal,l,Litros,40.8
+32,Argentina,1985,6,2211,Leche cruda,2211,Leche informal,l,Litros,38.2
+32,Argentina,1985,7,2211,Leche cruda,2211,Leche informal,l,Litros,40.1
+32,Argentina,1985,8,2211,Leche cruda,2211,Leche informal,l,Litros,40.7
+32,Argentina,1985,9,2211,Leche cruda,2211,Leche informal,l,Litros,40.6
+32,Argentina,1985,10,2211,Leche cruda,2211,Leche informal,l,Litros,44.1
+32,Argentina,1985,11,2211,Leche cruda,2211,Leche informal,l,Litros,42.4
+32,Argentina,1985,12,2211,Leche cruda,2211,Leche informal,l,Litros,42.2
+32,Argentina,1986,1,2211,Leche cruda,,Productos,l,Litros,354
+32,Argentina,1986,2,2211,Leche cruda,,Productos,l,Litros,316.4
+32,Argentina,1986,3,2211,Leche cruda,,Productos,l,Litros,320.8
+32,Argentina,1986,4,2211,Leche cruda,,Productos,l,Litros,264.9
+32,Argentina,1986,5,2211,Leche cruda,,Productos,l,Litros,277.9
+32,Argentina,1986,6,2211,Leche cruda,,Productos,l,Litros,277.5
+32,Argentina,1986,7,2211,Leche cruda,,Productos,l,Litros,304
+32,Argentina,1986,8,2211,Leche cruda,,Productos,l,Litros,341.6
+32,Argentina,1986,9,2211,Leche cruda,,Productos,l,Litros,382.2
+32,Argentina,1986,10,2211,Leche cruda,,Productos,l,Litros,436.6
+32,Argentina,1986,11,2211,Leche cruda,,Productos,l,Litros,433.5
+32,Argentina,1986,12,2211,Leche cruda,,Productos,l,Litros,446.7
+32,Argentina,1986,1,2211,Leche cruda,22110,Leche fluida,l,Litros,95.8
+32,Argentina,1986,2,2211,Leche cruda,22110,Leche fluida,l,Litros,79.7
+32,Argentina,1986,3,2211,Leche cruda,22110,Leche fluida,l,Litros,87.2
+32,Argentina,1986,4,2211,Leche cruda,22110,Leche fluida,l,Litros,89
+32,Argentina,1986,5,2211,Leche cruda,22110,Leche fluida,l,Litros,88.6
+32,Argentina,1986,6,2211,Leche cruda,22110,Leche fluida,l,Litros,85.2
+32,Argentina,1986,7,2211,Leche cruda,22110,Leche fluida,l,Litros,92.3
+32,Argentina,1986,8,2211,Leche cruda,22110,Leche fluida,l,Litros,91
+32,Argentina,1986,9,2211,Leche cruda,22110,Leche fluida,l,Litros,90.2
+32,Argentina,1986,10,2211,Leche cruda,22110,Leche fluida,l,Litros,94.8
+32,Argentina,1986,11,2211,Leche cruda,22110,Leche fluida,l,Litros,91.1
+32,Argentina,1986,12,2211,Leche cruda,22110,Leche fluida,l,Litros,94.3
+32,Argentina,1986,1,2211,Leche cruda,2211,Leche informal,l,Litros,43.1
+32,Argentina,1986,2,2211,Leche cruda,2211,Leche informal,l,Litros,35.9
+32,Argentina,1986,3,2211,Leche cruda,2211,Leche informal,l,Litros,39.2
+32,Argentina,1986,4,2211,Leche cruda,2211,Leche informal,l,Litros,40.1
+32,Argentina,1986,5,2211,Leche cruda,2211,Leche informal,l,Litros,39.9
+32,Argentina,1986,6,2211,Leche cruda,2211,Leche informal,l,Litros,38.3
+32,Argentina,1986,7,2211,Leche cruda,2211,Leche informal,l,Litros,41.5
+32,Argentina,1986,8,2211,Leche cruda,2211,Leche informal,l,Litros,41
+32,Argentina,1986,9,2211,Leche cruda,2211,Leche informal,l,Litros,40.6
+32,Argentina,1986,10,2211,Leche cruda,2211,Leche informal,l,Litros,42.7
+32,Argentina,1986,11,2211,Leche cruda,2211,Leche informal,l,Litros,41
+32,Argentina,1986,12,2211,Leche cruda,2211,Leche informal,l,Litros,42.4
+32,Argentina,1987,1,2211,Leche cruda,,Productos,l,Litros,400.4
+32,Argentina,1987,2,2211,Leche cruda,,Productos,l,Litros,355.4
+32,Argentina,1987,3,2211,Leche cruda,,Productos,l,Litros,345.5
+32,Argentina,1987,4,2211,Leche cruda,,Productos,l,Litros,292.6
+32,Argentina,1987,5,2211,Leche cruda,,Productos,l,Litros,298.3
+32,Argentina,1987,6,2211,Leche cruda,,Productos,l,Litros,304.7
+32,Argentina,1987,7,2211,Leche cruda,,Productos,l,Litros,315.4
+32,Argentina,1987,8,2211,Leche cruda,,Productos,l,Litros,356.7
+32,Argentina,1987,9,2211,Leche cruda,,Productos,l,Litros,393.6
+32,Argentina,1987,10,2211,Leche cruda,,Productos,l,Litros,471
+32,Argentina,1987,11,2211,Leche cruda,,Productos,l,Litros,465.6
+32,Argentina,1987,12,2211,Leche cruda,,Productos,l,Litros,478.2
+32,Argentina,1987,1,2211,Leche cruda,22110,Leche fluida,l,Litros,95
+32,Argentina,1987,2,2211,Leche cruda,22110,Leche fluida,l,Litros,91
+32,Argentina,1987,3,2211,Leche cruda,22110,Leche fluida,l,Litros,99
+32,Argentina,1987,4,2211,Leche cruda,22110,Leche fluida,l,Litros,98
+32,Argentina,1987,5,2211,Leche cruda,22110,Leche fluida,l,Litros,99
+32,Argentina,1987,6,2211,Leche cruda,22110,Leche fluida,l,Litros,103
+32,Argentina,1987,7,2211,Leche cruda,22110,Leche fluida,l,Litros,102
+32,Argentina,1987,8,2211,Leche cruda,22110,Leche fluida,l,Litros,103
+32,Argentina,1987,9,2211,Leche cruda,22110,Leche fluida,l,Litros,100
+32,Argentina,1987,10,2211,Leche cruda,22110,Leche fluida,l,Litros,99
+32,Argentina,1987,11,2211,Leche cruda,22110,Leche fluida,l,Litros,94
+32,Argentina,1987,12,2211,Leche cruda,22110,Leche fluida,l,Litros,98
+32,Argentina,1987,1,2211,Leche cruda,2211,Leche informal,l,Litros,42.8
+32,Argentina,1987,2,2211,Leche cruda,2211,Leche informal,l,Litros,41
+32,Argentina,1987,3,2211,Leche cruda,2211,Leche informal,l,Litros,44.6
+32,Argentina,1987,4,2211,Leche cruda,2211,Leche informal,l,Litros,44.1
+32,Argentina,1987,5,2211,Leche cruda,2211,Leche informal,l,Litros,44.6
+32,Argentina,1987,6,2211,Leche cruda,2211,Leche informal,l,Litros,46.4
+32,Argentina,1987,7,2211,Leche cruda,2211,Leche informal,l,Litros,45.9
+32,Argentina,1987,8,2211,Leche cruda,2211,Leche informal,l,Litros,46.4
+32,Argentina,1987,9,2211,Leche cruda,2211,Leche informal,l,Litros,45
+32,Argentina,1987,10,2211,Leche cruda,2211,Leche informal,l,Litros,44.6
+32,Argentina,1987,11,2211,Leche cruda,2211,Leche informal,l,Litros,42.3
+32,Argentina,1987,12,2211,Leche cruda,2211,Leche informal,l,Litros,44.1
+32,Argentina,1988,1,2211,Leche cruda,,Productos,l,Litros,141.8
+32,Argentina,1988,2,2211,Leche cruda,,Productos,l,Litros,373.6
+32,Argentina,1988,3,2211,Leche cruda,,Productos,l,Litros,342.9
+32,Argentina,1988,4,2211,Leche cruda,,Productos,l,Litros,326.3
+32,Argentina,1988,5,2211,Leche cruda,,Productos,l,Litros,327.2
+32,Argentina,1988,6,2211,Leche cruda,,Productos,l,Litros,280.1
+32,Argentina,1988,7,2211,Leche cruda,,Productos,l,Litros,268.2
+32,Argentina,1988,8,2211,Leche cruda,,Productos,l,Litros,325.8
+32,Argentina,1988,9,2211,Leche cruda,,Productos,l,Litros,365.2
+32,Argentina,1988,10,2211,Leche cruda,,Productos,l,Litros,441.6
+32,Argentina,1988,11,2211,Leche cruda,,Productos,l,Litros,442.9
+32,Argentina,1988,12,2211,Leche cruda,,Productos,l,Litros,484.9
+32,Argentina,1988,1,2211,Leche cruda,22110,Leche fluida,l,Litros,99
+32,Argentina,1988,2,2211,Leche cruda,22110,Leche fluida,l,Litros,93
+32,Argentina,1988,3,2211,Leche cruda,22110,Leche fluida,l,Litros,101
+32,Argentina,1988,4,2211,Leche cruda,22110,Leche fluida,l,Litros,96
+32,Argentina,1988,5,2211,Leche cruda,22110,Leche fluida,l,Litros,97
+32,Argentina,1988,6,2211,Leche cruda,22110,Leche fluida,l,Litros,93
+32,Argentina,1988,7,2211,Leche cruda,22110,Leche fluida,l,Litros,97
+32,Argentina,1988,8,2211,Leche cruda,22110,Leche fluida,l,Litros,92
+32,Argentina,1988,9,2211,Leche cruda,22110,Leche fluida,l,Litros,94
+32,Argentina,1988,10,2211,Leche cruda,22110,Leche fluida,l,Litros,95
+32,Argentina,1988,11,2211,Leche cruda,22110,Leche fluida,l,Litros,94
+32,Argentina,1988,12,2211,Leche cruda,22110,Leche fluida,l,Litros,96
+32,Argentina,1988,1,2211,Leche cruda,2211,Leche informal,l,Litros,44.6
+32,Argentina,1988,2,2211,Leche cruda,2211,Leche informal,l,Litros,41.9
+32,Argentina,1988,3,2211,Leche cruda,2211,Leche informal,l,Litros,45.5
+32,Argentina,1988,4,2211,Leche cruda,2211,Leche informal,l,Litros,43.2
+32,Argentina,1988,5,2211,Leche cruda,2211,Leche informal,l,Litros,43.7
+32,Argentina,1988,6,2211,Leche cruda,2211,Leche informal,l,Litros,41.9
+32,Argentina,1988,7,2211,Leche cruda,2211,Leche informal,l,Litros,43.7
+32,Argentina,1988,8,2211,Leche cruda,2211,Leche informal,l,Litros,42.8
+32,Argentina,1988,9,2211,Leche cruda,2211,Leche informal,l,Litros,42.3
+32,Argentina,1988,10,2211,Leche cruda,2211,Leche informal,l,Litros,42.8
+32,Argentina,1988,11,2211,Leche cruda,2211,Leche informal,l,Litros,42.3
+32,Argentina,1988,12,2211,Leche cruda,2211,Leche informal,l,Litros,43.2
