@@ -85,6 +85,18 @@ def elegir_columna():
         elif not eleccion in columnas_disponibles:
             print(separador + "Por favor selecione una de las columnas" + separador)
             continue
+        elif eleccion == 4 or eleccion == "4":
+            clear.clear()
+            print("Seguro que desea continuar?\n", "Está programado y todo, pero posiblemente se vuelva loco\n"),
+            "De igual forma verá esta columna al realizar la tabla por ende"            
+            pregunta = input("Desea continuar? S o N: ").strip().upper()
+            if not pregunta or pregunta == "N":
+                print("Sabia decisión")
+                clear.clear()
+                continue
+            else:
+                print("Suerte")
+                break
         else:
             break    
     columna_elegida = columnas_disponibles[eleccion]
@@ -114,26 +126,36 @@ def mostrar_productos_destino_disponibles(archivo_elegido):
     """"""
     clear.clear()
     productos = open(archivo_elegido, "r").readlines()
-    productos_destino_disponibles = set({})
+    conjunto_productos = set({})
     for a in productos:
         separador = a.split(",")
-        productos_destino_disponibles.add(separador[7])
+        conjunto_productos.add(separador[7])
+    indice = 1
+    productos_destino_disponibles = {}
+    for x in conjunto_productos:
+        productos_destino_disponibles[indice] = x
+        indice += 1
     return productos_destino_disponibles
 
 def mostrar_cantidad_millon_disponibles(archivo_elegido):
     """"""
     clear.clear()
     cantidad = open(archivo_elegido, "r").readlines()
-    cantidad_millon_disponibles = set({})
+    conjunto_cantidad_millon = set({})
     for a in cantidad:
         separador = a.split(",")
-        cantidad_millon_disponibles.add(separador[10])
+        conjunto_cantidad_millon.add(separador[10])
+    indice = 1
+    cantidad_millon_disponibles = {}
+    for x in conjunto_cantidad_millon:
+        cantidad_millon_disponibles[indice] = x[-1:]
+        indice += 1
     return cantidad_millon_disponibles
 
 def opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, productos_destino_disponibles, cantidad_millon_disponibles):
     """"""
     clear.clear()
-    print("Ahora elegirá de forma más especifica el", columna_elegida)
+    print("Ahora elegirá de forma más especifica el/la", columna_elegida)
     while True:
         if columna_elegida == "año":
             print(años_disponibles)
@@ -164,7 +186,13 @@ def opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, 
                 return ingresar
         elif columna_elegida == "producto destino":
             print(productos_destino_disponibles)
-            ingresar = input("Por favor ingrese uno de estos productos: ").strip().upper()
+            ingresar = input("Por favor ingrese el numero de uno de estos productos: ")
+            try:
+                ingresar = int(ingresar)
+            except:
+                clear.clear()
+                print("Por favor el numero del producto")
+                continue
             if not ingresar:
                 print("Por favor ingrese un producto: ", productos_destino_disponibles)
                 continue
@@ -172,14 +200,16 @@ def opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, 
                 print("Por favor elija uno de los siguientes productos: ", productos_destino_disponibles)
                 continue
             else:
-                return ingresar
-        elif columna_elegida == "cantidad por millon":
+                primer_dato = productos_destino_disponibles[ingresar]
+                return primer_dato
+        elif columna_elegida == "cantidad por millón":
             print(cantidad_millon_disponibles)
-            ingresar = input("Por favor ingrese uno de estas cantidades: ").strip().upper()
+            ingresar = input("Por favor ingrese uno de estas cantidades: ")
             try:
-                float(ingresar)
+                ingresar = int(ingresar)
             except:
-                print("Por favor ingrese un valor valido")
+                clear.clear()
+                print("Por favor ingrese el numero de la cantidad")
                 continue
             if not ingresar:
                 print("Por favor ingrese una cantidad: ", cantidad_millon_disponibles)
@@ -188,66 +218,90 @@ def opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, 
                 print("Por favor elija uno de las siguientes cantidades: ", cantidad_millon_disponibles)
                 continue
             else:
-                return ingresar
+                primer_dato = cantidad_millon_disponibles[ingresar]
+                return primer_dato
 
 def opciones_segundo_dato(archivo_elegido, primer_dato, segunda_columna_elegida):
     """"""
     clear.clear()
-    años = set({})
-    meses = set({})
-    productos_destino = set({})
-    cantidad_millon = set({})    
+    conjunto_años = set({})
+    conjunto_meses = set({})
+    conjunto_productos_destino = set({})
+    conjunto_cantidad_millon = set({})    
     archivo = open(archivo_elegido, "r").readlines()
     for datos in archivo:
         separador = datos.split(",")
         if primer_dato in datos:
-            años.add(separador[2])
-            meses.add(separador[3])
-            productos_destino.add(separador[7])
-            cantidad_millon.add([10])
+            conjunto_años.add(separador[2])
+            conjunto_meses.add(separador[3])
+            conjunto_productos_destino.add(separador[7])
+            conjunto_cantidad_millon.add(separador[10])
+    indice = 1
+    diccionario_productos_destino = {}
+    diccionario_cantidad_millon = {}
+    for productos_destino in conjunto_productos_destino:
+         diccionario_productos_destino[indice] = productos_destino
+         indice += 1
+    for cantidad_millon in conjunto_cantidad_millon:
+        diccionario_cantidad_millon[indice] = cantidad_millon
+        indice += 1
     while True:
         if segunda_columna_elegida == "año":
-            print(años)
-            ingresar = input("Por favor ingrese uno de estos años: ").strip().upper()
+            print(conjunto_años)
+            ingresar = input("Por favor ingrese uno de estos años: ").strip()
             try:
                 int(ingresar)
             except:
                 print("Por favor ingrse un año valido")
                 continue
-            if not ingresar or not ingresar in años:
-                print("Por favor ingrese un año ", años)
+            if not ingresar or not ingresar in conjunto_años:
+                print("Por favor ingrese un año ", conjunto_años)
                 continue
             else:
                 return ingresar
         elif segunda_columna_elegida == "mes":
-            print(meses)
-            ingresar = input("Por favor ingrese uno de estos meses: ").strip().upper()
-            if not ingresar or not ingresar in meses:
-                print("Por favor ingrese un mes ", meses)
+            print(conjunto_meses)
+            ingresar = input("Por favor ingrese uno de estos meses: ").strip()
+            try:
+                int(ingresar)
+            except:
+                print("Por favor ingrse un año valido")
+                continue
+            if not ingresar or not ingresar in conjunto_meses:
+                print("Por favor ingrese un mes ", conjunto_meses)
                 continue
             else:
                 return ingresar
         elif segunda_columna_elegida == "producto destino":
-            print(productos_destino)
-            ingresar = input("Por favor ingrese uno de estos productos: ").strip().upper()
-            if not ingresar or not ingresar in productos_destino:
-                print("Por favor ingrese un producto ", productos_destino)
+            print(diccionario_productos_destino)
+            ingresar = input("Por favor ingrese el numero del producto elegido: ")
+            try:
+                ingresar = int(ingresar)
+            except:
+                clear.clear()
+                print("Por favor ingrese el <NUMERO> delante del producto que quiera escoger")
+                continue
+            if not ingresar or not ingresar in diccionario_productos_destino:
+                print("Por favor ingrese un producto ", diccionario_productos_destino)
                 continue
             else:
-                return ingresar
+                segundo_dato = diccionario_productos_destino[ingresar]
+                return segundo_dato
         elif segunda_columna_elegida == "cantidad por millon":
-            print(meses)
-            ingresar = input("Por favor ingrese uno de estas cantidades: ").strip().upper()
+            print(diccionario_cantidad_millon)
+            ingresar = input("Por favor ingrese uno de estas cantidades: ")
             try:
-                float(ingresar)
+                ingresar = int(ingresar)
             except:
-                print("Por favor ingrese un valor valido")
+                clear.clear()
+                print("Por favor ingrese el numero delante del valor")
                 continue
             if not ingresar or not ingresar in cantidad_millon:
                 print("Por favor ingrese una cantidad ", cantidad_millon)
                 continue
             else:
-                return ingresar
+                segundo_dato = diccionario_cantidad_millon[ingresar]
+                return segundo_dato
 
 def procesar_un_dato(archivo_elegido, columna_elegida, primer_dato):
     """"""
@@ -267,28 +321,28 @@ def procesar_un_dato(archivo_elegido, columna_elegida, primer_dato):
                 mes.append(separador[3])
                 producto_destino.append(separador[7])
                 unidad_med.append(separador[8])
-                cantidad_millon.append(separador[10])
+                cantidad_millon.append(float(separador[10]))
         elif columna_elegida == "mes":
             if primer_dato in dato:
                 año.append(separador[2])
                 mes.append(separador[3])
                 producto_destino.append(separador[7])
                 unidad_med.append(separador[8])
-                cantidad_millon.append(separador[10])
+                cantidad_millon.append(float(separador[10]))
         elif columna_elegida == "producto destino":
             if primer_dato in dato:
                 año.append(separador[2])
                 mes.append(separador[3])
                 producto_destino.append(separador[7])
                 unidad_med.append(separador[8])
-                cantidad_millon.append(separador[10])
+                cantidad_millon.append(float(separador[10]))
         elif columna_elegida == "cantidad por millon":
             if primer_dato in dato:
                 año.append(separador[2])
                 mes.append(separador[3])
                 producto_destino.append(separador[7])
                 unidad_med.append(separador[8])
-                cantidad_millon.append(separador[10])
+                cantidad_millon.append(float(separador[10]))
     return datos_procesados
 
 def procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida, primer_dato, segundo_dato):
@@ -297,7 +351,8 @@ def procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida,
     dato1 = []
     dato2 = []
     unidad_med = []
-    datos_procesados = {"dato1": dato1, "dato2": dato2, "unidad med": unidad_med}
+    cantidad_millon = []
+    datos_procesados = {"dato1": dato1, "dato2": dato2, "unidad med": unidad_med, "Cantidad millon": cantidad_millon}
     archivo = open(archivo_elegido, "r").readlines()
     for dato in archivo:
         separador = dato.split(",")
@@ -315,9 +370,11 @@ def procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida,
                 dato2.append(separador[7])
         elif columna_elegida == "cantidad por millon" or segunda_columna_elegida == "cantidad por millon":
             if primer_dato in dato or segundo_dato in dato:
-                dato1.append(separador[10])
-                dato2.append(separador[10])
-        unidad_med.append(separador[8])            
+                dato1.append(float(separador[10]))
+                dato2.append(float(separador[10]))
+        if primer_dato in dato or segundo_dato in dato:
+            unidad_med.append(separador[8])
+            cantidad_millon.append(float(separador[10]))
     return datos_procesados
     
 def tabla(datos_procesados):
@@ -332,12 +389,11 @@ def tabla(datos_procesados):
         df = df.sort_values("cantidad millon", ascending = True)
     top = input("Desea ver un top ten o 10? s o n: ").upper().strip()
     if not top or top == "N":
-        
         print(tabulate(df, showindex=False, tablefmt='fancy_grid'))
     else:
         df = df.reset_index(drop=True)
-        df.drop(df.index[11:100], inplace=True)
-        print("\nTop 10\n""\n", tabulate(df, tablefmt='fancy_grid'), "\n")
+        df.drop(df.index[11:6000], inplace=True)
+        print("\nTop 10\n""\n",tabulate(df, tablefmt='fancy_grid'), "\n")
     pausa = input("Precione <ENTER> para continuar")
     return
 
@@ -348,16 +404,15 @@ def tabla_dos_datos(datos_procesados):
     df = pd.DataFrame(datos_procesados)
     ascendente = input("Desea verlo de forma ascendente? S o N: ")
     if not ascendente or ascendente == "N":
-        df = df.sort_values("dato2", ascending = False)    
+        df = df.sort_values("Cantidad millon", ascending = False)    
     else:
-        df = df.sort_values("dato2", ascending = True)
+        df = df.sort_values("Cantidad millon", ascending = True)
     top = input("Desea ver un top ten o 10? s o n: ").upper().strip()
     if not top or top == "N":
-        
         print(tabulate(df, showindex=False, tablefmt='fancy_grid'))
     else:
         df = df.reset_index(drop=True)
-        df.drop(df.index[11:100], inplace=True)
+        df.drop(df.index[11:6000], inplace=True)
         print("\nTop 10\n""\n", tabulate(df, tablefmt='fancy_grid'), "\n")
     pausa = input("Precione <ENTER> para continuar")
     return
@@ -395,10 +450,13 @@ while True:
             cantidad_millon_disponibles = mostrar_cantidad_millon_disponibles(archivo_elegido)
             while True:    
                 primer_dato = opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, productos_destino_disponibles, cantidad_millon_disponibles)
-                segundo_dato = opciones_segundo_dato(segunda_columna_elegida, años_disponibles, meses_disponibles, productos_destino_disponibles, cantidad_millon_disponibles)
-                datos_procesados = procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida, primer_dato, segundo_dato)
-                break    
-    pregunta = input("Quieres realizar otra tabla s o n").upper().strip()
+                segundo_dato = opciones_segundo_dato(archivo_elegido, primer_dato, segunda_columna_elegida)
+                break
+            datos_procesados = procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida, primer_dato, segundo_dato)
+            tabla_dos_datos(datos_procesados)
+            break
+                    
+    pregunta = input("Quieres realizar otra tabla s o n: ").upper().strip()
     if pregunta == "N" or not pregunta:
         print("Muchas gracias por tu tiempo")
         exit()
