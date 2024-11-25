@@ -1,6 +1,7 @@
 #Importaciones
 from ast import Try
 from email import header
+import turtle
 import clear
 import pandas as pd
 from os import listdir
@@ -64,7 +65,7 @@ def elegir_archivo():
     return archivo_elegido
 
 def elegir_columna():
-    """"""
+    """Esta funcion nos permite elegir la columna por la cual deseamos realizar filtrado"""
     separador = "\n"
     columnas_disponibles = {1:"año",2:"mes",3:"producto destino",4:"cantidad por millón"}
     while True:
@@ -103,33 +104,39 @@ def elegir_columna():
     return columna_elegida
 
 def mostrar_años_disponibles(archivo_elegido):
-    """"""
+    """Esta funcion se encarga de buscar en el archivo que elegimos anteriormente
+    y darnos todos los años que se encuentren en la primera columna para nuestra eleccion"""
     clear.clear()
     años = open(archivo_elegido, "r").readlines()
     años_disponibles = set({})
     for a in años:
         separador = a.split(",")
         años_disponibles.add(separador[2])
+    años_disponibles.remove("año")
     return años_disponibles
         
 def mostrar_meses_disponibles(archivo_elegido):
-    """"""
+    """Esta funcion se encarga de buscar en el archivo que elegimos anteriormente
+    y darnos todos los meses que se encuentren en la segunda columna para nuestra eleccion"""
     clear.clear()
     meses = open(archivo_elegido, "r").readlines()
     meses_disponibles = set({})
     for a in meses:
         separador = a.split(",")
         meses_disponibles.add(separador[3])
+    meses_disponibles.remove("mes")
     return meses_disponibles
 
 def mostrar_productos_destino_disponibles(archivo_elegido):
-    """"""
+    """Esta funcion recopila todos los productos que aparezcan en el archivo elegido
+    para permitir una eleccion más especifica para la hora de filtrar"""
     clear.clear()
     productos = open(archivo_elegido, "r").readlines()
     conjunto_productos = set({})
     for a in productos:
         separador = a.split(",")
         conjunto_productos.add(separador[7])
+    conjunto_productos.remove("producto_destino")
     indice = 1
     productos_destino_disponibles = {}
     for x in conjunto_productos:
@@ -138,7 +145,8 @@ def mostrar_productos_destino_disponibles(archivo_elegido):
     return productos_destino_disponibles
 
 def mostrar_cantidad_millon_disponibles(archivo_elegido):
-    """"""
+    """Esta funcion recopila todos los datos de la columna 11 y nos la permite visualizar
+    para poder realizar una mejor filtracion"""
     clear.clear()
     cantidad = open(archivo_elegido, "r").readlines()
     conjunto_cantidad_millon = set({})
@@ -153,7 +161,8 @@ def mostrar_cantidad_millon_disponibles(archivo_elegido):
     return cantidad_millon_disponibles
 
 def opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, productos_destino_disponibles, cantidad_millon_disponibles):
-    """"""
+    """En esta funcion elegiremos el dato que fue recopilado en las anteriores funciones
+    debiendo escribir la palabra o numero que deseamos"""
     clear.clear()
     print("Ahora elegirá de forma más especifica el/la", columna_elegida)
     while True:
@@ -222,7 +231,8 @@ def opciones_primer_dato(columna_elegida, años_disponibles, meses_disponibles, 
                 return primer_dato
 
 def opciones_segundo_dato(archivo_elegido, primer_dato, segunda_columna_elegida):
-    """"""
+    """Esta funcion recopila datos que estén relacionados con el primer dato que elegimos 
+    y además nos permite elegir un dato especifico para filtrar"""
     clear.clear()
     conjunto_años = set({})
     conjunto_meses = set({})
@@ -304,7 +314,8 @@ def opciones_segundo_dato(archivo_elegido, primer_dato, segunda_columna_elegida)
                 return segundo_dato
 
 def procesar_un_dato(archivo_elegido, columna_elegida, primer_dato):
-    """"""
+    """Esta funcion recopila todos los datos que estén relacionados con el elegido,
+    los agrega una lista especifica y por ultimo devuelve un diccionario"""
     clear.clear()
     año = []
     mes = []
@@ -346,7 +357,7 @@ def procesar_un_dato(archivo_elegido, columna_elegida, primer_dato):
     return datos_procesados
 
 def procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida, primer_dato, segundo_dato):
-    """"""
+    """Esta funcion recopila datos relacionados a la eleccion y devuelve un diccionario"""
     clear.clear()
     dato1 = []
     dato2 = []
@@ -378,7 +389,7 @@ def procesar_dos_dato(archivo_elegido, columna_elegida, segunda_columna_elegida,
     return datos_procesados
     
 def tabla(datos_procesados):
-    """"""
+    """Esta funcion nos permite visualizar una tabla además de otras opciones"""
     clear.clear()
     datos_procesados
     df = pd.DataFrame(datos_procesados)
@@ -398,7 +409,7 @@ def tabla(datos_procesados):
     return
 
 def tabla_dos_datos(datos_procesados):
-    """"""
+    """Esta funcion nos permite visualizar una tabla además de otras opciones"""
     clear.clear()
     datos_procesados
     df = pd.DataFrame(datos_procesados)
