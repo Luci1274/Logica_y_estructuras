@@ -1,0 +1,42 @@
+
+----------------------------------------------------------------------------------------------------------------------------------
+Las columnas elegidas fueron:
+Primera columna:  producto destino
+Segunda columna:  año
+Los daotos elegidos fueron:
+Primer dato:  Leche chocolatada
+Segundo dato:  1998
+La tabla mostrada fue: 
+----------------------------------------------------------------------------------------------------------------------------------
+producto destino,año,unidad med.,cantidad millon
+Leche chocolatada,1998,l,1.02
+Leche chocolatada,1998,l,1.06
+Leche chocolatada,1998,l,1.65
+Leche chocolatada,1998,l,1.75
+Leche chocolatada,1998,l,1.86
+Leche chocolatada,1998,l,2.09
+Leche chocolatada,1998,l,2.19
+Leche chocolatada,1998,l,2.75
+Leche chocolatada,1998,l,3.24
+Leche chocolatada,1998,l,3.43
+Leche chocolatada,1998,l,3.59
+Leche chocolatada,1998,l,3.9
+
+----------------------------------------------------------------------------------------------------------------------------------
+La columna elegida fue:
+año
+El dato elegido fue:
+2015
+La tabla mostrada fue: 
+----------------------------------------------------------------------------------------------------------------------------------
+año,mes,producto destino,unidad med.,cantidad millon
+2015,10,Leche en polvo entera ,l,209.27
+2015,11,Leche en polvo entera ,l,203.4
+2015,9,Leche en polvo entera ,l,200.25
+2015,1,Quesos de mediana humedad (pasta semidura),l,196.21
+2015,9,Quesos de mediana humedad (pasta semidura),l,194.12
+2015,8,Quesos de mediana humedad (pasta semidura),l,185.58
+2015,5,Quesos de mediana humedad (pasta semidura),l,183.82
+2015,10,Quesos de alta humedad (pasta blanda),l,182.41
+2015,12,Leche en polvo entera ,l,181.56
+2015,10,Quesos de mediana humedad (pasta semidura),l,178.79
